@@ -466,4 +466,4 @@ stephen.learnNewTechnology();
   <h3>⭐️ <strong>Crafted with passion 💖, endless coffee ☕, and pixel-perfect precision</strong> ⭐️</h3>
   <h4><strong>by <a href="https://github.com/mac254">Stephen Mburu</a> - UI/UX Frontend Architect</strong></h4>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Always+learning%2C+always+growing!+%F0%9F%8C%B1;Let's+create+something+amazing+together!+%F0%9F%9A%80;The+future+is+built+one+commit+at+a+time!+%F0%9F%94%A5;Happy+coding+and+keep+building!+%F0%9F%8
+
