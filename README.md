@@ -1,31 +1,365 @@
-![Image](https://github.com/user-attachments/assets/b892da21-b6cc-4b07-813e-c2891b1b5e4d)
-<h1 align="center">Hi 👋, I'm Stephen Mburu</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+# 🌟 STEPHEN MBURU - UI/UX FRONTEND ARCHITECT 🌟
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=STEPHEN%20MBURU&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%F0%9F%9A%80%20UI/UX%20Frontend%20Architect%20%7C%20React%20Wizard%20%7C%20Design%20Systems%20Expert%20%F0%9F%8E%A8&descAlignY=55&descAlign=50&descSize=18"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mac254&label=Profile%20views&color=0e75b6&style=flat" alt="mac254" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FF6B35&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%8E%A8+CRAFTING+PIXEL-PERFECT+EXPERIENCES;%E2%9A%A1+REACT+%26+ANGULAR+ARCHITECTURE+MASTER;%F0%9F%8C%8D+BUILDING+THE+FUTURE+FROM+NAIROBI;%F0%9F%94%A5+WHERE+DESIGN+MEETS+FLAWLESS+CODE" alt="Dynamic Typing"/>
+</div>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 🔭 I’m currently working on **Kenyatech**
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" valign="top">
+      <h2 align="center">🧠 THE ARCHITECT'S MINDSET</h2>
+      
+```typescript
+interface UIUXMaster {
+  name: string;
+  passion: string[];
+  expertise: {
+    frontend: string[];
+    design: string[];
+    architecture: string[];
+  };
+  currentMission: string;
+  superpower: string;
+  workStyle: string;
+}
 
-- 🌱 I’m currently learning **React Native, Angular**
+const stephen: UIUXMaster = {
+  name: "Stephen Mburu",
+  passion: ["Pixel Perfect UI", "Seamless UX", "Design Systems"],
+  expertise: {
+    frontend: ["React", "Angular", "TypeScript", "Next.js"],
+    design: ["Figma", "Design Systems", "Prototyping", "User Research"],
+    architecture: ["Component Libraries", "State Management", "Performance"]
+  },
+  currentMission: "Building KenyaTech - The Ultimate Developer Platform",
+  superpower: "Turning coffee into beautiful, functional interfaces ☕→🎨",
+  workStyle: "Design First, Code Smart, Ship Fast 🚀"
+};
+```
 
-- 💬 Ask me about **react**
+</td>
+<td width="50%" valign="top">
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mac254&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=6BCF7F&text_color=FFFFFF&ring_color=FF6B35" width="100%"/>
+    
+<br/><br/>
+    
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mac254&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B35&fire=FFD93D&currStreakLabel=6BCF7F&sideLabels=FFFFFF&currStreakNum=FFD93D&sideNums=FFFFFF&dates=8B949E" width="100%"/>
+  </div>
+</td>
+</tr>
+</table>
 
-- 📫 How to reach me **mburustephen167@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stephen mburu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen mburu" height="30" width="40" /></a>
-</p>
+## 🎨 **DESIGN & DEVELOPMENT MASTERY**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mac254&show_icons=true&locale=en&layout=compact" alt="mac254" /></p>
+### 🎯 **UI/UX EXPERTISE SHOWCASE**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mac254&show_icons=true&locale=en" alt="mac254" /></p>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/UI_Design-FF6B35?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" />
+      <br/><br/>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&perline=2" />
+        <br/><br/>
+        <img src="https://progress-bar.dev/95/?scale=100&title=Expertise&width=150&color=FF6B35&suffix=%" />
+        <br/><br/>
+        <strong>🎨 Visual Design</strong><br/>
+        <em>Crafting stunning, intuitive interfaces that users love</em>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/Frontend_Architecture-6BCF7F?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
+      <br/><br/>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=react,angular,nextjs,typescript&perline=2" />
+        <br/><br/>
+        <img src="https://progress-bar.dev/98/?scale=100&title=Mastery&width=150&color=6BCF7F&suffix=%" />
+        <br/><br/>
+        <strong>⚛️ Frontend Architecture</strong><br/>
+        <em>Building scalable, maintainable React & Angular apps</em>
+      </div>
+    </td>
+    <td width="33%" align="center">
+      <img src="https://img.shields.io/badge/User_Experience-FFD93D?style=for-the-badge&logo=material-design&logoColor=black&labelColor=0D1117" />
+      <br/><br/>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=materialui,tailwind,sass,css&perline=2" />
+        <br/><br/>
+        <img src="https://progress-bar.dev/92/?scale=100&title=Excellence&width=150&color=FFD93D&suffix=%" />
+        <br/><br/>
+        <strong>✨ User Experience</strong><br/>
+        <em>Research-driven design that converts and delights</em>
+      </div>
+    </td>
+  </tr>
+</table>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mac254&" alt="mac254" /></p>
+---
+
+## 🚀 **TECHNOLOGY ARSENAL**
+
+<div align="center">
+  <h3>🔥 <strong>FRONTEND MASTERY</strong> 🔥</h3>
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,typescript,javascript,html,css,tailwind,sass,materialui,bootstrap&perline=6" />
+  
+  <br/><br/>
+  
+  <h3>⚡ <strong>BACKEND & TOOLS</strong> ⚡</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,php,mongodb,mysql,firebase,docker,git,vscode,figma,ps,blender&perline=6" />
+  
+  <br/><br/>
+  
+  <h3>🌱 <strong>CURRENTLY EXPLORING</strong> 🌱</h3>
+  <img src="https://skillicons.dev/icons?i=reactnative,flutter,threejs,webgl,aws,kubernetes&perline=6" />
+</div>
+
+---
+
+## 📊 **GITHUB ANALYTICS POWERHOUSE**
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mac254&theme=tokyonight&hide_border=true" width="100%"/>
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac254&layout=donut-vertical&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" width="100%"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mac254&custom_title=Stephen's%20Code%20Contribution%20Journey&bg_color=0D1117&color=6BCF7F&line=FF6B35&point=FFD93D&area=true&area_color=FF6B35&title_color=FF6B35&hide_border=true" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 **ACHIEVEMENTS & RECOGNITION**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mac254&theme=tokyonight&no-frame=true&column=4&title=Stars,Followers,Commits,PullRequest,MultipleLang,Repositories&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%"/>
+</div>
+
+---
+
+## 🎯 **FEATURED PROJECTS SHOWCASE**
+
+<div align="center">
+  
+  ### 🌟 **PROJECTS THAT MAKE A DIFFERENCE** 🌟
+  
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/mac254/kenyatech">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mac254&repo=kenyatech&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=6BCF7F" width="100%"/>
+      </a>
+      <div align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/mac254/ui-component-library">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mac254&repo=ui-component-library&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=6BCF7F" width="100%"/>
+      </a>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💡 **DESIGN PHILOSOPHY & APPROACH**
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/000000/user-male-circle.png" width="80"/>
+        <br/><strong>🎯 USER-CENTRIC</strong>
+        <br/><em>Every pixel serves a purpose</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/000000/speed.png" width="80"/>
+        <br/><strong>⚡ PERFORMANCE</strong>
+        <br/><em>Beautiful AND blazing fast</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/000000/mobile-phone.png" width="80"/>
+        <br/><strong>📱 RESPONSIVE</strong>
+        <br/><em>Flawless on every device</em>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.icons8.com/fluency/96/000000/infinity.png" width="80"/>
+        <br/><strong>♿ ACCESSIBLE</strong>
+        <br/><em>Inclusive design for all</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎨 **CURRENT FOCUS & LEARNING JOURNEY**
+
+<div align="center">
+  <h3>🔥 <strong>MASTERY IN PROGRESS</strong> 🔥</h3>
+</div>
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <br/><br/>
+      <div style="background: linear-gradient(to right, #FF6B35 75%, #333 75%); height: 10px; border-radius: 5px; width: 100%;"></div>
+      <br/><strong>75% Complete</strong>
+      <br/><em>Building mobile experiences</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+      <br/><br/>
+      <div style="background: linear-gradient(to right, #6BCF7F 60%, #333 60%); height: 10px; border-radius: 5px; width: 100%;"></div>
+      <br/><strong>60% Complete</strong>
+      <br/><em>3D web experiences</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/Design_Systems-FFD93D?style=for-the-badge&logo=figma&logoColor=black" />
+      <br/><br/>
+      <div style="background: linear-gradient(to right, #FFD93D 90%, #333 90%); height: 10px; border-radius: 5px; width: 100%;"></div>
+      <br/><strong>90% Complete</strong>
+      <br/><em>Scalable design systems</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌐 **LET'S CREATE SOMETHING AMAZING TOGETHER!**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <h2>🚀 <strong>READY TO COLLABORATE?</strong> 🚀</h2>
+  
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <a href="https://linkedin.com/in/stephen-mburu">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          <br/><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40"/>
+          <br/><strong>Professional Network</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="mailto:mburustephen167@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          <br/><img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40"/>
+          <br/><strong>Direct Contact</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://twitter.com/stephen_mburu">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+          <br/><img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40"/>
+          <br/><strong>Tech Discussions</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://mac254.dev">
+          <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" />
+          <br/><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40"/>
+          <br/><strong>Live Portfolio</strong>
+        </a>
+      </td>
+      <td align="center" width="20%">
+        <a href="https://github.com/mac254">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          <br/><img src="https://img.icons8.com/fluency/48/000000/github.png" width="40"/>
+          <br/><strong>Open Source</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <h3>💬 <strong>What I Can Help You With:</strong></h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        🎨<br/><strong>UI/UX Design</strong><br/><em>Stunning interfaces</em>
+      </td>
+      <td align="center" width="25%">
+        ⚛️<br/><strong>React Development</strong><br/><em>Modern web apps</em>
+      </td>
+      <td align="center" width="25%">
+        📱<br/><strong>Mobile Apps</strong><br/><em>Cross-platform solutions</em>
+      </td>
+      <td align="center" width="25%">
+        🏗️<br/><strong>Architecture</strong><br/><em>Scalable systems</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎵 **CODING VIBES**
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26ykpei33om2zaisg6jmjkbey&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=ff6b35&bar_color_cover=true" />
+  
+  <br/><br/>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Great%20design%20is%20how%20it%20works.&author=Steve%20Jobs&border=true" />
+</div>
+
+---
+
+## 📈 **PROFILE STATISTICS**
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mac254&label=Profile%20Views&color=FF6B35&style=for-the-badge&base=1000" />
+  <img src="https://img.shields.io/github/followers/mac254?label=Followers&style=for-the-badge&color=6BCF7F&labelColor=0D1117" />
+  <img src="https://img.shields.io/github/stars/mac254?label=Total%20Stars&style=for-the-badge&color=FFD93D&labelColor=0D1117" />
+  
+  <br/><br/>
+  
+  <img src="https://activity-graph.herokuapp.com/graph?username=mac254&custom_title=Stephen's%20Contribution%20Graph&bg_color=0D1117&color=6BCF7F&line=FF6B35&point=FFD93D&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+  
+  <h2>🎉 <strong>LET'S BUILD THE FUTURE TOGETHER!</strong> 🎉</h2>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <h3>⭐️ <strong>Crafted with 💖, lots of ☕, and pixel-perfect precision by <a href="https://github.com/mac254">Stephen Mburu</a></strong> ⭐️</h3>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Happy+Coding!+%F0%9F%9A%80;Let's+create+amazing+things+together!+%F0%9F%8C%9F;Always+learning%2C+always+growing!+%F0%9F%8C%B1" />
+</div>
