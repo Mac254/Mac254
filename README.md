@@ -1,107 +1,164 @@
-# 🌟 STEPHEN MBURU - UI/UX FRONTEND ARCHITECT 🌟
+# Stephen Mburu
+## UI/UX Frontend Architect & Design Systems Expert
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=STEPHEN%20MBURU&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=%F0%9F%9A%80%20UI/UX%20Frontend%20Architect%20%7C%20React%20Wizard%20%7C%20Design%20Systems%20Expert%20%F0%9F%8E%A8&descAlignY=55&descAlign=50&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,4&height=200&section=header&text=&fontSize=0&animation=fadeIn"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FF6B35&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%F0%9F%8E%A8+CRAFTING+PIXEL-PERFECT+EXPERIENCES;%E2%9A%A1+REACT+%26+ANGULAR+ARCHITECTURE+MASTER;%F0%9F%8C%8D+BUILDING+THE+FUTURE+FROM+NAIROBI;%F0%9F%94%A5+WHERE+DESIGN+MEETS+FLAWLESS+CODE" alt="Dynamic Typing"/>
-</div>
+<table align="center" cellpadding="0" cellspacing="0" border="0" style="background: transparent;">
+  <tr>
+    <td align="center" style="background: transparent; border: none;">
+      <h1 style="font-size: 3.5rem; margin: 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 800;">
+        Stephen Mburu
+      </h1>
+      <p style="font-size: 1.4rem; color: #8892b0; margin: 0.5rem 0; font-weight: 300;">
+        UI/UX Frontend Architect
+      </p>
+      <div style="width: 60px; height: 4px; background: linear-gradient(90deg, #667eea, #764ba2); margin: 1rem auto; border-radius: 2px;"></div>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<table align="center" style="border: none;">
-  <tr>
-    <td width="50%" valign="top">
-      <h2 align="center">🧠 THE ARCHITECT'S MINDSET</h2>
-      
-```typescript
-interface UIUXMaster {
-  name: string;
-  passion: string[];
-  expertise: {
-    frontend: string[];
-    design: string[];
-    architecture: string[];
-  };
-  currentMission: string;
-  superpower: string;
-  workStyle: string;
-}
+### 🎯 Currently Building
 
-const stephen: UIUXMaster = {
-  name: "Stephen Mburu",
-  passion: ["Pixel Perfect UI", "Seamless UX", "Design Systems"],
-  expertise: {
-    frontend: ["React", "Angular", "TypeScript", "Next.js"],
-    design: ["Figma", "Design Systems", "Prototyping", "User Research"],
-    architecture: ["Component Libraries", "State Management", "Performance"]
-  },
-  currentMission: "Building KenyaTech - The Ultimate Developer Platform",
-  superpower: "Turning coffee into beautiful, functional interfaces ☕→🎨",
-  workStyle: "Design First, Code Smart, Ship Fast 🚀"
-};
+**KenyaTech Platform** — A comprehensive developer ecosystem connecting Kenya's tech community through innovative tools, resources, and collaboration spaces.
+
+### 💡 Design Philosophy
+
+> "Great design is invisible. Great code is readable. Great UX is intuitive."
+
+I believe in creating digital experiences that feel natural, perform flawlessly, and solve real problems. Every interface should tell a story, guide users effortlessly, and leave them feeling empowered.
+
+---
+
+## ⚡ Expertise Matrix
+
+<table width="100%" cellpadding="15" cellspacing="0">
+  <tr>
+    <td width="33%" align="center" style="vertical-align: top;">
+      <h3 style="color: #667eea; margin-bottom: 1rem;">🎨 Design Excellence</h3>
+      <div style="text-align: left;">
+        <strong>Visual Design</strong><br/>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px 0;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 95%; height: 100%; border-radius: 8px;"></div>
+        </div>
+        
+        <strong>User Experience</strong><br/>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px 0;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 92%; height: 100%; border-radius: 8px;"></div>
+        </div>
+        
+        <strong>Prototyping</strong><br/>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px 0;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 88%; height: 100%; border-radius: 8px;"></div>
+        </div>
+      </div>
+    </td>
+    <td width="33%" align="center" style="vertical-align: top;">
+      <h3 style="color: #667eea; margin-bottom: 1rem;">⚛️ Frontend Mastery</h3>
+      <div style="text-align: left;">
+        <strong>React Ecosystem</strong><br/>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px 0;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 98%; height: 100%; border-radius: 8px;"></div>
+        </div>
+        
+        <strong>TypeScript</strong><br/>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px 0;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 94%; height: 100%; border-radius: 8px;"></div>
+        </div>
+        
+        <strong>Angular</strong><br/>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px 0;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 85%; height: 100%; border-radius: 8px;"></div>
+        </div>
+      </div>
+    </td>
+    <td width="33%" align="center" style="vertical-align: top;">
+      <h3 style="color: #667eea; margin-bottom: 1rem;">🏗️ Architecture</h3>
+      <div style="text-align: left;">
+        <strong>Design Systems</strong><br/>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px 0;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 96%; height: 100%; border-radius: 8px;"></div>
+        </div>
+        
+        <strong>Component Libraries</strong><br/>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px 0;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 93%; height: 100%; border-radius: 8px;"></div>
+        </div>
+        
+        <strong>Performance</strong><br/>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px 0;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 90%; height: 100%; border-radius: 8px;"></div>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technology Stack
+
+### Primary Stack
+```
+Frontend Architecture    React • Next.js • Angular • TypeScript
+Design Tools            Figma • Adobe Creative Suite • Framer
+Styling & Animation     Tailwind CSS • Styled Components • Framer Motion
+State Management        Redux Toolkit • Zustand • Context API
+Testing & Quality       Jest • Cypress • Storybook • ESLint
 ```
 
-</td>
-<td width="50%" valign="top">
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mac254&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=6BCF7F&text_color=FFFFFF&ring_color=FF6B35" width="100%"/>
-    
-<br/><br/>
-    
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mac254&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B35&fire=FFD93D&currStreakLabel=6BCF7F&sideLabels=FFFFFF&currStreakNum=FFD93D&sideNums=FFFFFF&dates=8B949E" width="100%"/>
-  </div>
-</td>
-</tr>
-</table>
+### Expanding Into
+```
+Mobile Development      React Native • Flutter
+3D & Interactive        Three.js • WebGL • GSAP
+Backend Integration     Node.js • GraphQL • REST APIs
+Cloud & DevOps         AWS • Docker • CI/CD
+```
 
 ---
 
-## 🎨 **DESIGN & DEVELOPMENT MASTERY**
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=mac254&show_icons=true&theme=transparent&hide_border=true&title_color=667eea&text_color=8892b0&icon_color=667eea" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac254&layout=compact&theme=transparent&hide_border=true&title_color=667eea&text_color=8892b0" width="48%" />
 </div>
 
-### 🎯 **UI/UX EXPERTISE SHOWCASE**
+<div align="center" style="margin-top: 2rem;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mac254&theme=transparent&hide_border=true&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=8892b0" width="60%" />
+</div>
 
-<table width="100%">
+---
+
+## 🎯 Featured Projects
+
+<table width="100%" cellpadding="20" cellspacing="0">
   <tr>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/UI_Design-FF6B35?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117" />
-      <br/><br/>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=figma,ps,ai,xd&perline=2" />
-        <br/><br/>
-        <img src="https://progress-bar.dev/95/?scale=100&title=Expertise&width=150&color=FF6B35&suffix=%" />
-        <br/><br/>
-        <strong>🎨 Visual Design</strong><br/>
-        <em>Crafting stunning, intuitive interfaces that users love</em>
+    <td width="50%" style="vertical-align: top;">
+      <h3 style="color: #667eea; margin-bottom: 1rem;">🌍 KenyaTech Platform</h3>
+      <p style="color: #8892b0; line-height: 1.6; margin-bottom: 1rem;">
+        A comprehensive developer ecosystem connecting Kenya's tech community. Features job boards, project collaboration, skill sharing, and mentorship programs.
+      </p>
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <span style="background: #667eea; color: white; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.75rem;">React</span>
+        <span style="background: #667eea; color: white; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.75rem;">TypeScript</span>
+        <span style="background: #667eea; color: white; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.75rem;">Next.js</span>
+        <span style="background: #667eea; color: white; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.75rem;">Tailwind</span>
       </div>
     </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/Frontend_Architecture-6BCF7F?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" />
-      <br/><br/>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,angular,nextjs,typescript&perline=2" />
-        <br/><br/>
-        <img src="https://progress-bar.dev/98/?scale=100&title=Mastery&width=150&color=6BCF7F&suffix=%" />
-        <br/><br/>
-        <strong>⚛️ Frontend Architecture</strong><br/>
-        <em>Building scalable, maintainable React & Angular apps</em>
-      </div>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://img.shields.io/badge/User_Experience-FFD93D?style=for-the-badge&logo=material-design&logoColor=black&labelColor=0D1117" />
-      <br/><br/>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=materialui,tailwind,sass,css&perline=2" />
-        <br/><br/>
-        <img src="https://progress-bar.dev/92/?scale=100&title=Excellence&width=150&color=FFD93D&suffix=%" />
-        <br/><br/>
-        <strong>✨ User Experience</strong><br/>
-        <em>Research-driven design that converts and delights</em>
+    <td width="50%" style="vertical-align: top;">
+      <h3 style="color: #667eea; margin-bottom: 1rem;">🎨 Design System Library</h3>
+      <p style="color: #8892b0; line-height: 1.6; margin-bottom: 1rem;">
+        A comprehensive component library and design system built for scalability. Includes 50+ components, design tokens, and extensive documentation.
+      </p>
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap;">
+        <span style="background: #764ba2; color: white; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.75rem;">Storybook</span>
+        <span style="background: #764ba2; color: white; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.75rem;">React</span>
+        <span style="background: #764ba2; color: white; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.75rem;">SCSS</span>
+        <span style="background: #764ba2; color: white; padding: 0.25rem 0.75rem; border-radius: 12px; font-size: 0.75rem;">Figma</span>
       </div>
     </td>
   </tr>
@@ -109,111 +166,31 @@ const stephen: UIUXMaster = {
 
 ---
 
-## 🚀 **TECHNOLOGY ARSENAL**
+## 🌱 Current Learning Journey
 
 <div align="center">
-  <h3>🔥 <strong>FRONTEND MASTERY</strong> 🔥</h3>
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,nextjs,typescript,javascript,html,css,tailwind,sass,materialui,bootstrap&perline=6" />
-  
-  <br/><br/>
-  
-  <h3>⚡ <strong>BACKEND & TOOLS</strong> ⚡</h3>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,php,mongodb,mysql,firebase,docker,git,vscode,figma,ps,blender&perline=6" />
-  
-  <br/><br/>
-  
-  <h3>🌱 <strong>CURRENTLY EXPLORING</strong> 🌱</h3>
-  <img src="https://skillicons.dev/icons?i=reactnative,flutter,threejs,webgl,aws,kubernetes&perline=6" />
-</div>
-
----
-
-## 📊 **GITHUB ANALYTICS POWERHOUSE**
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mac254&theme=tokyonight&hide_border=true" width="100%"/>
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mac254&layout=donut-vertical&theme=tokyonight&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=mac254&custom_title=Stephen's%20Code%20Contribution%20Journey&bg_color=0D1117&color=6BCF7F&line=FF6B35&point=FFD93D&area=true&area_color=FF6B35&title_color=FF6B35&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 **ACHIEVEMENTS & RECOGNITION**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mac254&theme=tokyonight&no-frame=true&column=4&title=Stars,Followers,Commits,PullRequest,MultipleLang,Repositories&rank=SECRET,SSS,SS,S,AAA,AA,A" width="100%"/>
-</div>
-
----
-
-## 🎯 **FEATURED PROJECTS SHOWCASE**
-
-<div align="center">
-  
-  ### 🌟 **PROJECTS THAT MAKE A DIFFERENCE** 🌟
-  
-</div>
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/mac254/kenyatech">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mac254&repo=kenyatech&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=6BCF7F" width="100%"/>
-      </a>
-      <div align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-      </div>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/mac254/ui-component-library">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mac254&repo=ui-component-library&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&icon_color=6BCF7F" width="100%"/>
-      </a>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💡 **DESIGN PHILOSOPHY & APPROACH**
-
-<div align="center">
-  <table>
+  <table width="80%" cellpadding="15" cellspacing="0">
     <tr>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/000000/user-male-circle.png" width="80"/>
-        <br/><strong>🎯 USER-CENTRIC</strong>
-        <br/><em>Every pixel serves a purpose</em>
+      <td width="33%" align="center" style="border-right: 1px solid #e2e8f0;">
+        <h4 style="color: #667eea; margin-bottom: 0.5rem;">React Native</h4>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px auto; width: 80%;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 75%; height: 100%; border-radius: 8px;"></div>
+        </div>
+        <p style="color: #8892b0; font-size: 0.9rem; margin: 0;">Mobile Development</p>
       </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/000000/speed.png" width="80"/>
-        <br/><strong>⚡ PERFORMANCE</strong>
-        <br/><em>Beautiful AND blazing fast</em>
+      <td width="33%" align="center" style="border-right: 1px solid #e2e8f0;">
+        <h4 style="color: #667eea; margin-bottom: 0.5rem;">Three.js</h4>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px auto; width: 80%;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 60%; height: 100%; border-radius: 8px;"></div>
+        </div>
+        <p style="color: #8892b0; font-size: 0.9rem; margin: 0;">3D Web Experiences</p>
       </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/000000/mobile-phone.png" width="80"/>
-        <br/><strong>📱 RESPONSIVE</strong>
-        <br/><em>Flawless on every device</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.icons8.com/fluency/96/000000/infinity.png" width="80"/>
-        <br/><strong>♿ ACCESSIBLE</strong>
-        <br/><em>Inclusive design for all</em>
+      <td width="33%" align="center">
+        <h4 style="color: #667eea; margin-bottom: 0.5rem;">Advanced UX</h4>
+        <div style="background: #f1f5f9; border-radius: 8px; height: 8px; margin: 8px auto; width: 80%;">
+          <div style="background: linear-gradient(90deg, #667eea, #764ba2); width: 85%; height: 100%; border-radius: 8px;"></div>
+        </div>
+        <p style="color: #8892b0; font-size: 0.9rem; margin: 0;">Behavioral Design</p>
       </td>
     </tr>
   </table>
@@ -221,145 +198,54 @@ const stephen: UIUXMaster = {
 
 ---
 
-## 🎨 **CURRENT FOCUS & LEARNING JOURNEY**
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <h3>🔥 <strong>MASTERY IN PROGRESS</strong> 🔥</h3>
-</div>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <br/><br/>
-      <div style="background: linear-gradient(to right, #FF6B35 75%, #333 75%); height: 10px; border-radius: 5px; width: 100%;"></div>
-      <br/><strong>75% Complete</strong>
-      <br/><em>Building mobile experiences</em>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-      <br/><br/>
-      <div style="background: linear-gradient(to right, #6BCF7F 60%, #333 60%); height: 10px; border-radius: 5px; width: 100%;"></div>
-      <br/><strong>60% Complete</strong>
-      <br/><em>3D web experiences</em>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.shields.io/badge/Design_Systems-FFD93D?style=for-the-badge&logo=figma&logoColor=black" />
-      <br/><br/>
-      <div style="background: linear-gradient(to right, #FFD93D 90%, #333 90%); height: 10px; border-radius: 5px; width: 100%;"></div>
-      <br/><strong>90% Complete</strong>
-      <br/><em>Scalable design systems</em>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🌐 **LET'S CREATE SOMETHING AMAZING TOGETHER!**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <p style="font-size: 1.2rem; color: #667eea; margin-bottom: 2rem;">
+    Always open to discussing innovative projects, sharing knowledge, and building meaningful connections.
+  </p>
   
-  <h2>🚀 <strong>READY TO COLLABORATE?</strong> 🚀</h2>
-  
-  <table>
+  <table cellpadding="15" cellspacing="0" style="margin: 0 auto;">
     <tr>
-      <td align="center" width="20%">
-        <a href="https://linkedin.com/in/stephen-mburu">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-          <br/><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40"/>
-          <br/><strong>Professional Network</strong>
+      <td align="center">
+        <a href="https://linkedin.com/in/stephen-mburu" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
         </a>
       </td>
-      <td align="center" width="20%">
-        <a href="mailto:mburustephen167@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-          <br/><img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40"/>
-          <br/><strong>Direct Contact</strong>
+      <td align="center">
+        <a href="mailto:mburustephen167@gmail.com" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
         </a>
       </td>
-      <td align="center" width="20%">
-        <a href="https://twitter.com/stephen_mburu">
-          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-          <br/><img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40"/>
-          <br/><strong>Tech Discussions</strong>
+      <td align="center">
+        <a href="https://mac254.dev" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=667eea" />
         </a>
       </td>
-      <td align="center" width="20%">
-        <a href="https://mac254.dev">
-          <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" />
-          <br/><img src="https://img.icons8.com/fluency/48/000000/domain.png" width="40"/>
-          <br/><strong>Live Portfolio</strong>
+      <td align="center">
+        <a href="https://twitter.com/stephen_mburu" style="text-decoration: none;">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
         </a>
-      </td>
-      <td align="center" width="20%">
-        <a href="https://github.com/mac254">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-          <br/><img src="https://img.icons8.com/fluency/48/000000/github.png" width="40"/>
-          <br/><strong>Open Source</strong>
-        </a>
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <h3>💬 <strong>What I Can Help You With:</strong></h3>
-  
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        🎨<br/><strong>UI/UX Design</strong><br/><em>Stunning interfaces</em>
-      </td>
-      <td align="center" width="25%">
-        ⚛️<br/><strong>React Development</strong><br/><em>Modern web apps</em>
-      </td>
-      <td align="center" width="25%">
-        📱<br/><strong>Mobile Apps</strong><br/><em>Cross-platform solutions</em>
-      </td>
-      <td align="center" width="25%">
-        🏗️<br/><strong>Architecture</strong><br/><em>Scalable systems</em>
       </td>
     </tr>
   </table>
 </div>
 
----
+### 💼 Open For
 
-## 🎵 **CODING VIBES**
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l26ykpei33om2zaisg6jmjkbey&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=ff6b35&bar_color_cover=true" />
-  
-  <br/><br/>
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Great%20design%20is%20not%20just%20what%20it%20looks%20like%20and%20feels%20like.%20Great%20design%20is%20how%20it%20works.&author=Steve%20Jobs&border=true" />
-</div>
-
----
-
-## 📈 **PROFILE STATISTICS**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mac254&label=Profile%20Views&color=FF6B35&style=for-the-badge&base=1000" />
-  <img src="https://img.shields.io/github/followers/mac254?label=Followers&style=for-the-badge&color=6BCF7F&labelColor=0D1117" />
-  <img src="https://img.shields.io/github/stars/mac254?label=Total%20Stars&style=for-the-badge&color=FFD93D&labelColor=0D1117" />
-  
-  <br/><br/>
-  
-  <img src="https://activity-graph.herokuapp.com/graph?username=mac254&custom_title=Stephen's%20Contribution%20Graph&bg_color=0D1117&color=6BCF7F&line=FF6B35&point=FFD93D&area=true&hide_border=true" width="100%"/>
-</div>
+- **Consulting** on UI/UX strategy and design systems
+- **Collaborating** on innovative frontend projects
+- **Speaking** at tech events and conferences
+- **Mentoring** aspiring designers and developers
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+  <img src="https://komarev.com/ghpvc/?username=mac254&label=Profile%20Views&color=667eea&style=flat-square" />
   
-  <h2>🎉 <strong>LET'S BUILD THE FUTURE TOGETHER!</strong> 🎉</h2>
+  <p style="margin-top: 2rem; color: #8892b0; font-style: italic;">
+    "Code is poetry written in logic. Design is poetry written in pixels."
+  </p>
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
-  <h3>⭐️ <strong>Crafted with 💖, lots of ☕, and pixel-perfect precision by <a href="https://github.com/mac254">Stephen Mburu</a></strong> ⭐️</h3>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Happy+Coding!+%F0%9F%9A%80;Let's+create+amazing+things+together!+%F0%9F%8C%9F;Always+learning%2C+always+growing!+%F0%9F%8C%B1" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,8,4&height=120&section=footer&reversal=true&textBg=false"/>
 </div>
