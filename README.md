@@ -1,899 +1,585 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Stephen Mburu - Senior UI/UX Frontend Architect</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        body {
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-            color: #333;
-            line-height: 1.6;
-            overflow-x: hidden;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 20px;
-        }
-
-        /* Header Section */
-        .header {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            padding: 40px 0;
-            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
-            position: relative;
-            overflow: hidden;
-        }
-
-        .header::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            bottom: 0;
-            background: linear-gradient(45deg, rgba(102, 126, 234, 0.1), rgba(118, 75, 162, 0.1));
-            z-index: -1;
-        }
-
-        .hero {
-            display: grid;
-            grid-template-columns: 1fr 2fr;
-            gap: 40px;
-            align-items: center;
-        }
-
-        .avatar {
-            width: 200px;
-            height: 200px;
-            border-radius: 50%;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-size: 72px;
-            font-weight: bold;
-            color: white;
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.2);
-            transition: transform 0.3s ease;
-        }
-
-        .avatar:hover {
-            transform: scale(1.05);
-        }
-
-        .hero-content h1 {
-            font-size: 3rem;
-            font-weight: 700;
-            margin-bottom: 10px;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            background-clip: text;
-        }
-
-        .hero-content .subtitle {
-            font-size: 1.5rem;
-            color: #666;
-            margin-bottom: 20px;
-        }
-
-        .hero-content .location {
-            font-size: 1.1rem;
-            color: #888;
-            margin-bottom: 30px;
-        }
-
-        .social-links {
-            display: flex;
-            gap: 15px;
-            flex-wrap: wrap;
-        }
-
-        .social-btn {
-            display: inline-flex;
-            align-items: center;
-            padding: 12px 24px;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            color: white;
-            text-decoration: none;
-            border-radius: 25px;
-            font-weight: 600;
-            transition: all 0.3s ease;
-            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-        }
-
-        .social-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
-        }
-
-        /* Main Content */
-        .main-content {
-            background: white;
-            margin-top: -20px;
-            border-radius: 20px 20px 0 0;
-            position: relative;
-            z-index: 1;
-        }
-
-        .section {
-            padding: 60px 0;
-            border-bottom: 1px solid #eee;
-        }
-
-        .section:last-child {
-            border-bottom: none;
-        }
-
-        .section-title {
-            font-size: 2.5rem;
-            font-weight: 700;
-            margin-bottom: 40px;
-            text-align: center;
-            position: relative;
-        }
-
-        .section-title::after {
-            content: '';
-            position: absolute;
-            bottom: -10px;
-            left: 50%;
-            transform: translateX(-50%);
-            width: 80px;
-            height: 4px;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            border-radius: 2px;
-        }
-
-        /* About Section */
-        .about-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 40px;
-            margin-top: 40px;
-        }
-
-        .about-text {
-            font-size: 1.1rem;
-            line-height: 1.8;
-            color: #555;
-        }
-
-        .current-project {
-            background: linear-gradient(135deg, #f8f9ff, #e8f2ff);
-            padding: 30px;
-            border-radius: 15px;
-            border-left: 4px solid #667eea;
-        }
-
-        .current-project h3 {
-            color: #667eea;
-            margin-bottom: 15px;
-            font-size: 1.3rem;
-        }
-
-        /* Tech Stack */
-        .tech-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 30px;
-            margin-top: 40px;
-        }
-
-        .tech-category {
-            background: #f8f9fa;
-            padding: 30px;
-            border-radius: 15px;
-            transition: transform 0.3s ease;
-        }
-
-        .tech-category:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-        }
-
-        .tech-category h3 {
-            color: #667eea;
-            margin-bottom: 20px;
-            font-size: 1.2rem;
-        }
-
-        .tech-tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 10px;
-        }
-
-        .tech-tag {
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            color: white;
-            padding: 8px 16px;
-            border-radius: 20px;
-            font-size: 0.9rem;
-            font-weight: 500;
-        }
-
-        /* Projects Section */
-        .projects-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-            gap: 30px;
-            margin-top: 40px;
-        }
-
-        .project-card {
-            background: white;
-            border-radius: 20px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-            transition: transform 0.3s ease;
-        }
-
-        .project-card:hover {
-            transform: translateY(-10px);
-            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
-        }
-
-        .project-header {
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            color: white;
-            padding: 25px;
-        }
-
-        .project-header h3 {
-            font-size: 1.5rem;
-            margin-bottom: 10px;
-        }
-
-        .project-content {
-            padding: 25px;
-        }
-
-        .project-features {
-            margin: 20px 0;
-        }
-
-        .project-features ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        .project-features li {
-            padding: 8px 0;
-            color: #666;
-            position: relative;
-            padding-left: 20px;
-        }
-
-        .project-features li::before {
-            content: '▸';
-            position: absolute;
-            left: 0;
-            color: #667eea;
-            font-weight: bold;
-        }
-
-        .project-tech {
-            margin-top: 20px;
-        }
-
-        .project-tech-tags {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 8px;
-            margin-top: 10px;
-        }
-
-        .project-tech-tag {
-            background: #f0f4ff;
-            color: #667eea;
-            padding: 6px 12px;
-            border-radius: 15px;
-            font-size: 0.8rem;
-            font-weight: 500;
-        }
-
-        /* Skills Icons */
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
-            gap: 20px;
-            margin-top: 40px;
-        }
-
-        .skill-icon {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding: 20px;
-            border-radius: 15px;
-            background: #f8f9fa;
-            transition: all 0.3s ease;
-        }
-
-        .skill-icon:hover {
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            color: white;
-            transform: translateY(-5px);
-        }
-
-        .skill-icon-img {
-            width: 40px;
-            height: 40px;
-            background: #667eea;
-            border-radius: 8px;
-            margin-bottom: 10px;
-        }
-
-        /* Achievements */
-        .achievements-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin-top: 40px;
-        }
-
-        .achievement {
-            background: linear-gradient(135deg, #f8f9ff, #e8f2ff);
-            padding: 25px;
-            border-radius: 15px;
-            text-align: center;
-            border: 1px solid #e0e8ff;
-        }
-
-        .achievement-icon {
-            font-size: 2rem;
-            margin-bottom: 15px;
-            color: #667eea;
-        }
-
-        .achievement h3 {
-            color: #333;
-            margin-bottom: 10px;
-        }
-
-        .achievement p {
-            color: #666;
-            font-size: 0.9rem;
-        }
-
-        /* Services Table */
-        .services-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 40px;
-            background: white;
-            border-radius: 15px;
-            overflow: hidden;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-        }
-
-        .services-table th,
-        .services-table td {
-            padding: 20px;
-            text-align: left;
-            border-bottom: 1px solid #eee;
-        }
-
-        .services-table th {
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            color: white;
-            font-weight: 600;
-        }
-
-        .services-table tbody tr:hover {
-            background: #f8f9ff;
-        }
-
-        /* Goals */
-        .goals-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            margin-top: 40px;
-        }
-
-        .goal {
-            background: white;
-            padding: 25px;
-            border-radius: 15px;
-            border-left: 4px solid #667eea;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-        }
-
-        .goal-checkbox {
-            width: 20px;
-            height: 20px;
-            border: 2px solid #667eea;
-            border-radius: 3px;
-            display: inline-block;
-            margin-right: 15px;
-            vertical-align: middle;
-        }
-
-        /* Progress Bar */
-        .progress-section {
-            margin-top: 40px;
-        }
-
-        .progress-item {
-            margin-bottom: 25px;
-        }
-
-        .progress-header {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 10px;
-        }
-
-        .progress-bar {
-            width: 100%;
-            height: 20px;
-            background: #f0f0f0;
-            border-radius: 10px;
-            overflow: hidden;
-        }
-
-        .progress-fill {
-            height: 100%;
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            transition: width 0.3s ease;
-        }
-
-        /* Fun Facts */
-        .fun-facts {
-            background: linear-gradient(135deg, #f8f9ff, #e8f2ff);
-            padding: 40px;
-            border-radius: 20px;
-            margin-top: 40px;
-        }
-
-        .fun-facts-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-        }
-
-        .fun-fact {
-            text-align: center;
-            padding: 20px;
-        }
-
-        .fun-fact-icon {
-            font-size: 2rem;
-            margin-bottom: 10px;
-        }
-
-        /* Footer */
-        .footer {
-            background: #333;
-            color: white;
-            padding: 40px 0;
-            text-align: center;
-        }
-
-        .footer-quote {
-            font-size: 1.2rem;
-            font-style: italic;
-            margin-bottom: 20px;
-            color: #ccc;
-        }
-
-        .footer-tagline {
-            color: #667eea;
-            font-weight: 600;
-        }
-
-        /* Responsive Design */
-        @media (max-width: 768px) {
-            .hero {
-                grid-template-columns: 1fr;
-                text-align: center;
-            }
-
-            .hero-content h1 {
-                font-size: 2rem;
-            }
-
-            .about-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .tech-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .projects-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .skills-grid {
-                grid-template-columns: repeat(4, 1fr);
-            }
-        }
-
-        /* Animations */
-        @keyframes fadeInUp {
-            from {
-                opacity: 0;
-                transform: translateY(30px);
-            }
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .section {
-            animation: fadeInUp 0.6s ease;
-        }
-
-        /* Smooth scrolling */
-        html {
-            scroll-behavior: smooth;
-        }
-    </style>
-</head>
-<body>
-    <!-- Header Section -->
-    <header class="header">
-        <div class="container">
-            <div class="hero">
-                <div class="avatar">SM</div>
-                <div class="hero-content">
-                    <h1>Stephen Mburu</h1>
-                    <p class="subtitle">Senior UI/UX Frontend Architect</p>
-                    <p class="location">📍 Nairobi, Kenya 🇰🇪</p>
-                    <div class="social-links">
-                        <a href="https://linkedin.com/in/stephen-mburu" class="social-btn">LinkedIn</a>
-                        <a href="https://mac254.dev" class="social-btn">Portfolio</a>
-                        <a href="mailto:mburustephen167@gmail.com" class="social-btn">Email</a>
-                        <a href="https://twitter.com/stephen_mburu" class="social-btn">Twitter</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </header>
-
-    <!-- Main Content -->
-    <main class="main-content">
-        <div class="container">
-            <!-- About Section -->
-            <section class="section">
-                <h2 class="section-title">About Me</h2>
-                <div class="about-grid">
-                    <div class="about-text">
-                        <p>I'm a passionate frontend architect with 5+ years of experience crafting user-centered digital experiences. I specialize in building scalable React applications, design systems, and leading cross-functional teams to deliver exceptional products.</p>
-                        <p>My expertise spans modern web technologies, user experience design, and technical leadership. I'm committed to creating accessible, performant, and beautiful digital experiences that solve real-world problems.</p>
-                    </div>
-                    <div class="current-project">
-                        <h3>🚀 Currently Building</h3>
-                        <p><strong>KenyaTech</strong> - A platform connecting Kenyan developers with global opportunities, fostering local tech talent and bridging the gap between African developers and international markets.</p>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Tech Stack Section -->
-            <section class="section">
-                <h2 class="section-title">Technology Stack</h2>
-                <div class="tech-grid">
-                    <div class="tech-category">
-                        <h3>Languages</h3>
-                        <div class="tech-tags">
-                            <span class="tech-tag">JavaScript</span>
-                            <span class="tech-tag">TypeScript</span>
-                            <span class="tech-tag">HTML</span>
-                            <span class="tech-tag">CSS</span>
-                            <span class="tech-tag">Python</span>
-                        </div>
-                    </div>
-                    <div class="tech-category">
-                        <h3>Frameworks</h3>
-                        <div class="tech-tags">
-                            <span class="tech-tag">React</span>
-                            <span class="tech-tag">Next.js</span>
-                            <span class="tech-tag">Angular</span>
-                            <span class="tech-tag">Vue.js</span>
-                        </div>
-                    </div>
-                    <div class="tech-category">
-                        <h3>Styling</h3>
-                        <div class="tech-tags">
-                            <span class="tech-tag">Tailwind CSS</span>
-                            <span class="tech-tag">SCSS</span>
-                            <span class="tech-tag">Styled Components</span>
-                            <span class="tech-tag">Material-UI</span>
-                        </div>
-                    </div>
-                    <div class="tech-category">
-                        <h3>Tools & Databases</h3>
-                        <div class="tech-tags">
-                            <span class="tech-tag">Figma</span>
-                            <span class="tech-tag">Storybook</span>
-                            <span class="tech-tag">Jest</span>
-                            <span class="tech-tag">MongoDB</span>
-                            <span class="tech-tag">PostgreSQL</span>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- What I Do Section -->
-            <section class="section">
-                <h2 class="section-title">What I Do</h2>
-                <div class="tech-grid">
-                    <div class="tech-category">
-                        <h3>Frontend Development</h3>
-                        <p>Building responsive, performant web applications with modern frameworks and tools. Creating reusable component libraries and implementing efficient development workflows.</p>
-                    </div>
-                    <div class="tech-category">
-                        <h3>UI/UX Design</h3>
-                        <p>Conducting user research and usability testing. Creating wireframes and prototypes in Figma with accessibility-first design principles.</p>
-                    </div>
-                    <div class="tech-category">
-                        <h3>Technical Leadership</h3>
-                        <p>Mentoring junior developers, conducting code reviews, and establishing best practices. Making architecture decisions and defining technical strategy.</p>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Featured Projects Section -->
-            <section class="section">
-                <h2 class="section-title">Featured Projects</h2>
-                <div class="projects-grid">
-                    <div class="project-card">
-                        <div class="project-header">
-                            <h3>🌐 KenyaTech Platform</h3>
-                            <p>Comprehensive developer platform</p>
-                        </div>
-                        <div class="project-content">
-                            <div class="project-features">
-                                <strong>Key Features:</strong>
-                                <ul>
-                                    <li>Developer profiles and portfolios</li>
-                                    <li>Job matching algorithm</li>
-                                    <li>Community forums and events</li>
-                                    <li>Skills assessment tools</li>
-                                </ul>
-                            </div>
-                            <div class="project-tech">
-                                <strong>Technologies:</strong>
-                                <div class="project-tech-tags">
-                                    <span class="project-tech-tag">React</span>
-                                    <span class="project-tech-tag">TypeScript</span>
-                                    <span class="project-tech-tag">Next.js</span>
-                                    <span class="project-tech-tag">Tailwind CSS</span>
-                                    <span class="project-tech-tag">PostgreSQL</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="project-card">
-                        <div class="project-header">
-                            <h3>🎨 Design System Library</h3>
-                            <p>Enterprise-grade component library</p>
-                        </div>
-                        <div class="project-content">
-                            <div class="project-features">
-                                <strong>Key Features:</strong>
-                                <ul>
-                                    <li>50+ accessible components</li>
-                                    <li>Dark/light theme support</li>
-                                    <li>Comprehensive documentation</li>
-                                    <li>95% test coverage</li>
-                                </ul>
-                            </div>
-                            <div class="project-tech">
-                                <strong>Technologies:</strong>
-                                <div class="project-tech-tags">
-                                    <span class="project-tech-tag">React</span>
-                                    <span class="project-tech-tag">Storybook</span>
-                                    <span class="project-tech-tag">SCSS</span>
-                                    <span class="project-tech-tag">Jest</span>
-                                    <span class="project-tech-tag">Chromatic</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="project-card">
-                        <div class="project-header">
-                            <h3>📊 Analytics Dashboard</h3>
-                            <p>Real-time business intelligence</p>
-                        </div>
-                        <div class="project-content">
-                            <div class="project-features">
-                                <strong>Key Features:</strong>
-                                <ul>
-                                    <li>Real-time data streaming</li>
-                                    <li>Interactive charts and graphs</li>
-                                    <li>Customizable widgets</li>
-                                    <li>Export functionality</li>
-                                </ul>
-                            </div>
-                            <div class="project-tech">
-                                <strong>Technologies:</strong>
-                                <div class="project-tech-tags">
-                                    <span class="project-tech-tag">React</span>
-                                    <span class="project-tech-tag">Redux</span>
-                                    <span class="project-tech-tag">Chart.js</span>
-                                    <span class="project-tech-tag">Material-UI</span>
-                                    <span class="project-tech-tag">WebSocket</span>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Achievements Section -->
-            <section class="section">
-                <h2 class="section-title">Achievements</h2>
-                <div class="achievements-grid">
-                    <div class="achievement">
-                        <div class="achievement-icon">🏆</div>
-                        <h3>Top 1% GitHub Contributor</h3>
-                        <p>Recognized among top contributors in Kenya</p>
-                    </div>
-                    <div class="achievement">
-                        <div class="achievement-icon">🎨</div>
-                        <h3>UI/UX Certified</h3>
-                        <p>Google Design certification</p>
-                    </div>
-                    <div class="achievement">
-                        <div class="achievement-icon">📱</div>
-                        <h3>React Native Expert</h3>
-                        <p>Built 50+ mobile applications</p>
-                    </div>
-                    <div class="achievement">
-                        <div class="achievement-icon">🚀</div>
-                        <h3>Open Source Contributor</h3>
-                        <p>1000+ commits to various projects</p>
-                    </div>
-                    <div class="achievement">
-                        <div class="achievement-icon">👥</div>
-                        <h3>Community Leader</h3>
-                        <p>Organized 10+ tech meetups</p>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Professional Services Section -->
-            <section class="section">
-                <h2 class="section-title">Professional Services</h2>
-                <table class="services-table">
-                    <thead>
-                        <tr>
-                            <th>Service</th>
-                            <th>Description</th>
-                            <th>Technologies</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td><strong>Frontend Development</strong></td>
-                            <td>Custom web applications and SPAs</td>
-                            <td>React, Next.js, TypeScript</td>
-                        </tr>
-                        <tr>
-                            <td><strong>UI/UX Design</strong></td>
-                            <td>User research, wireframing, prototyping</td>
-                            <td>Figma, Adobe XD, Sketch</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Design Systems</strong></td>
-                            <td>Component libraries and style guides</td>
-                            <td>Storybook, Tailwind, SCSS</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Mobile Development</strong></td>
-                            <td>Cross-platform mobile applications</td>
-                            <td>React Native, Flutter</td>
-                        </tr>
-                        <tr>
-                            <td><strong>Technical Consulting</strong></td>
-                            <td>Code reviews, architecture planning</td>
-                            <td>Various technologies</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </section>
-
-            <!-- Goals Section -->
-            <section class="section">
-                <h2 class="section-title">Goals for 2025</h2>
-                <div class="goals-grid">
-                    <div class="goal">
-                        <span class="goal-checkbox"></span>
-                        Launch KenyaTech platform with 1000+ developers
-                    </div>
-                    <div class="goal">
-                        <span class="goal-checkbox"></span>
-                        Contribute to 5 major open source projects
-                    </div>
-                    <div class="goal">
-                        <span class="goal-checkbox"></span>
-                        Speak at 3 international tech conferences
-                    </div>
-                    <div class="goal">
-                        <span class="goal-checkbox"></span>
-                        Mentor 20+ junior developers
-                    </div>
-                    <div class="goal">
-                        <span class="goal-checkbox"></span>
-                        Complete AWS Solutions Architect certification
-                    </div>
-                </div>
-            </section>
-
-            <!-- Weekly Development Breakdown -->
-            <section class="section">
-                <h2 class="section-title">Weekly Development Breakdown</h2>
-                <div class="progress-section">
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>TypeScript</span>
-                            <span>45.2%</span>
-                        </div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: 45.2%"></div>
-                        </div>
-                    </div>
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>React</span>
-                            <span>29.8%</span>
-                        </div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: 29.8%"></div>
-                        </div>
-                    </div>
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>SCSS</span>
-                            <span>13.5%</span>
-                        </div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: 13.5%"></div>
-                        </div>
-                    </div>
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>Figma</span>
-                            <span>9.0%</span>
-                        </div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: 9.0%"></div>
-                        </div>
-                    </div>
-                    <div class="progress-item">
-                        <div class="progress-header">
-                            <span>Other</span>
-                            <span>2.5%</span>
-                        </div>
-                        <div class="progress-bar">
-                            <div class="progress-fill" style="width: 2.5%"></div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Fun Facts Section -->
-            <section class="section">
-                <h2 class="section-title">Fun Facts</h2>
-                <div class="fun-facts">
-                    <div class="fun-facts-grid">
-                        <div class="fun-fact">
-                            <div class="fun-fact-icon">
+# Stephen Mburu
+
+**Senior UI/UX Frontend Architect** • Nairobi, Kenya 🇰🇪
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-mburu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mac254.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/mac254)
+
+---
+
+## Code Portfolio
+
+### 🎯 Custom React Hooks
+
+```tsx
+// useAsync - Custom hook for handling async operations
+export const useAsync = <T>(asyncFunction: () => Promise<T>, deps: any[] = []) => {
+  const [state, setState] = useState<{
+    data: T | null;
+    loading: boolean;
+    error: Error | null;
+  }>({
+    data: null,
+    loading: false,
+    error: null,
+  });
+
+  const execute = useCallback(async () => {
+    setState({ data: null, loading: true, error: null });
+    try {
+      const result = await asyncFunction();
+      setState({ data: result, loading: false, error: null });
+    } catch (error) {
+      setState({ data: null, loading: false, error: error as Error });
+    }
+  }, deps);
+
+  useEffect(() => {
+    execute();
+  }, [execute]);
+
+  return { ...state, execute };
+};
+
+// useLocalStorage - Type-safe localStorage hook
+export const useLocalStorage = <T>(key: string, initialValue: T) => {
+  const [storedValue, setStoredValue] = useState<T>(() => {
+    try {
+      const item = window.localStorage.getItem(key);
+      return item ? JSON.parse(item) : initialValue;
+    } catch (error) {
+      console.error(`Error reading localStorage key "${key}":`, error);
+      return initialValue;
+    }
+  });
+
+  const setValue = (value: T | ((val: T) => T)) => {
+    try {
+      const valueToStore = value instanceof Function ? value(storedValue) : value;
+      setStoredValue(valueToStore);
+      window.localStorage.setItem(key, JSON.stringify(valueToStore));
+    } catch (error) {
+      console.error(`Error setting localStorage key "${key}":`, error);
+    }
+  };
+
+  return [storedValue, setValue] as const;
+};
+```
+
+### 🛠️ Advanced Component Patterns
+
+```tsx
+// Higher-Order Component with TypeScript
+export const withAuth = <P extends object>(
+  Component: React.ComponentType<P>
+) => {
+  return (props: P) => {
+    const { user, loading } = useAuth();
+    
+    if (loading) return <LoadingSpinner />;
+    if (!user) return <Navigate to="/login" />;
+    
+    return <Component {...props} />;
+  };
+};
+
+// Render Props Pattern
+interface DataFetcherProps<T> {
+  url: string;
+  children: (data: {
+    data: T | null;
+    loading: boolean;
+    error: Error | null;
+    refetch: () => void;
+  }) => React.ReactNode;
+}
+
+export const DataFetcher = <T,>({ url, children }: DataFetcherProps<T>) => {
+  const { data, loading, error, execute } = useAsync(
+    () => fetch(url).then(res => res.json()),
+    [url]
+  );
+
+  return <>{children({ data, loading, error, refetch: execute })}</>;
+};
+
+// Compound Components
+interface TabsContextType {
+  activeTab: string;
+  setActiveTab: (tab: string) => void;
+}
+
+const TabsContext = createContext<TabsContextType | null>(null);
+
+export const Tabs = ({ children, defaultTab }: { children: React.ReactNode; defaultTab: string }) => {
+  const [activeTab, setActiveTab] = useState(defaultTab);
+  
+  return (
+    <TabsContext.Provider value={{ activeTab, setActiveTab }}>
+      <div className="tabs-container">{children}</div>
+    </TabsContext.Provider>
+  );
+};
+
+Tabs.List = ({ children }: { children: React.ReactNode }) => (
+  <div className="tabs-list">{children}</div>
+);
+
+Tabs.Tab = ({ value, children }: { value: string; children: React.ReactNode }) => {
+  const context = useContext(TabsContext);
+  if (!context) throw new Error('Tab must be used within Tabs');
+  
+  const { activeTab, setActiveTab } = context;
+  
+  return (
+    <button
+      className={`tab ${activeTab === value ? 'active' : ''}`}
+      onClick={() => setActiveTab(value)}
+    >
+      {children}
+    </button>
+  );
+};
+```
+
+### ⚡ Performance Optimizations
+
+```tsx
+// Virtual Scrolling Implementation
+export const VirtualScrollList = <T,>({
+  items,
+  itemHeight,
+  containerHeight,
+  renderItem,
+}: {
+  items: T[];
+  itemHeight: number;
+  containerHeight: number;
+  renderItem: (item: T, index: number) => React.ReactNode;
+}) => {
+  const [scrollTop, setScrollTop] = useState(0);
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  const visibleStart = Math.floor(scrollTop / itemHeight);
+  const visibleEnd = Math.min(
+    visibleStart + Math.ceil(containerHeight / itemHeight),
+    items.length - 1
+  );
+
+  const visibleItems = items.slice(visibleStart, visibleEnd + 1);
+
+  const handleScroll = useCallback((e: React.UIEvent<HTMLDivElement>) => {
+    setScrollTop(e.currentTarget.scrollTop);
+  }, []);
+
+  return (
+    <div
+      ref={containerRef}
+      style={{ height: containerHeight, overflow: 'auto' }}
+      onScroll={handleScroll}
+    >
+      <div style={{ height: items.length * itemHeight, position: 'relative' }}>
+        {visibleItems.map((item, index) => (
+          <div
+            key={visibleStart + index}
+            style={{
+              position: 'absolute',
+              top: (visibleStart + index) * itemHeight,
+              height: itemHeight,
+              width: '100%',
+            }}
+          >
+            {renderItem(item, visibleStart + index)}
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+};
+
+// Debounced Search Hook
+export const useDebounce = <T>(value: T, delay: number): T => {
+  const [debouncedValue, setDebouncedValue] = useState<T>(value);
+
+  useEffect(() => {
+    const handler = setTimeout(() => {
+      setDebouncedValue(value);
+    }, delay);
+
+    return () => {
+      clearTimeout(handler);
+    };
+  }, [value, delay]);
+
+  return debouncedValue;
+};
+```
+
+### 🎨 Design System Components
+
+```tsx
+// Button Component with Variants
+interface ButtonProps extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+  variant?: 'primary' | 'secondary' | 'outline' | 'ghost';
+  size?: 'sm' | 'md' | 'lg';
+  loading?: boolean;
+  leftIcon?: React.ReactNode;
+  rightIcon?: React.ReactNode;
+}
+
+export const Button = forwardRef<HTMLButtonElement, ButtonProps>(
+  (
+    {
+      variant = 'primary',
+      size = 'md',
+      loading = false,
+      leftIcon,
+      rightIcon,
+      children,
+      className,
+      disabled,
+      ...props
+    },
+    ref
+  ) => {
+    const baseClasses = 'inline-flex items-center justify-center font-medium transition-colors';
+    
+    const variants = {
+      primary: 'bg-blue-600 text-white hover:bg-blue-700 focus:ring-blue-500',
+      secondary: 'bg-gray-200 text-gray-900 hover:bg-gray-300 focus:ring-gray-500',
+      outline: 'border border-gray-300 text-gray-700 hover:bg-gray-50 focus:ring-gray-500',
+      ghost: 'text-gray-700 hover:bg-gray-100 focus:ring-gray-500',
+    };
+
+    const sizes = {
+      sm: 'h-8 px-3 text-sm',
+      md: 'h-10 px-4 text-sm',
+      lg: 'h-12 px-6 text-base',
+    };
+
+    return (
+      <button
+        ref={ref}
+        className={cn(
+          baseClasses,
+          variants[variant],
+          sizes[size],
+          'focus:outline-none focus:ring-2 focus:ring-offset-2',
+          disabled && 'opacity-50 cursor-not-allowed',
+          className
+        )}
+        disabled={disabled || loading}
+        {...props}
+      >
+        {loading && <Spinner className="w-4 h-4 mr-2" />}
+        {!loading && leftIcon && <span className="mr-2">{leftIcon}</span>}
+        {children}
+        {!loading && rightIcon && <span className="ml-2">{rightIcon}</span>}
+      </button>
+    );
+  }
+);
+```
+
+### 🔧 State Management
+
+```tsx
+// Custom Context + Reducer Pattern
+interface AppState {
+  user: User | null;
+  theme: 'light' | 'dark';
+  notifications: Notification[];
+  loading: boolean;
+}
+
+type AppAction =
+  | { type: 'SET_USER'; payload: User | null }
+  | { type: 'SET_THEME'; payload: 'light' | 'dark' }
+  | { type: 'ADD_NOTIFICATION'; payload: Notification }
+  | { type: 'REMOVE_NOTIFICATION'; payload: string }
+  | { type: 'SET_LOADING'; payload: boolean };
+
+const appReducer = (state: AppState, action: AppAction): AppState => {
+  switch (action.type) {
+    case 'SET_USER':
+      return { ...state, user: action.payload };
+    case 'SET_THEME':
+      return { ...state, theme: action.payload };
+    case 'ADD_NOTIFICATION':
+      return {
+        ...state,
+        notifications: [...state.notifications, action.payload],
+      };
+    case 'REMOVE_NOTIFICATION':
+      return {
+        ...state,
+        notifications: state.notifications.filter(n => n.id !== action.payload),
+      };
+    case 'SET_LOADING':
+      return { ...state, loading: action.payload };
+    default:
+      return state;
+  }
+};
+
+// Context Provider
+export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+  const [state, dispatch] = useReducer(appReducer, {
+    user: null,
+    theme: 'light',
+    notifications: [],
+    loading: false,
+  });
+
+  const actions = {
+    setUser: (user: User | null) => dispatch({ type: 'SET_USER', payload: user }),
+    setTheme: (theme: 'light' | 'dark') => dispatch({ type: 'SET_THEME', payload: theme }),
+    addNotification: (notification: Notification) => 
+      dispatch({ type: 'ADD_NOTIFICATION', payload: notification }),
+    removeNotification: (id: string) => 
+      dispatch({ type: 'REMOVE_NOTIFICATION', payload: id }),
+    setLoading: (loading: boolean) => dispatch({ type: 'SET_LOADING', payload: loading }),
+  };
+
+  return (
+    <AppContext.Provider value={{ state, actions }}>
+      {children}
+    </AppContext.Provider>
+  );
+};
+```
+
+### 🧪 Testing Utilities
+
+```tsx
+// Custom Testing Library Utils
+export const renderWithProviders = (
+  ui: React.ReactElement,
+  {
+    preloadedState = {},
+    store = setupStore(preloadedState),
+    ...renderOptions
+  }: ExtendedRenderOptions = {}
+) => {
+  function Wrapper({ children }: PropsWithChildren<{}>): JSX.Element {
+    return (
+      <Provider store={store}>
+        <BrowserRouter>
+          <ThemeProvider theme={theme}>
+            {children}
+          </ThemeProvider>
+        </BrowserRouter>
+      </Provider>
+    );
+  }
+
+  return { store, ...render(ui, { wrapper: Wrapper, ...renderOptions }) };
+};
+
+// Mock API Handlers
+export const handlers = [
+  rest.get('/api/users', (req, res, ctx) => {
+    return res(ctx.json({ users: mockUsers }));
+  }),
+  
+  rest.post('/api/users', (req, res, ctx) => {
+    return res(ctx.json({ user: mockUser }));
+  }),
+  
+  rest.get('/api/users/:id', (req, res, ctx) => {
+    const { id } = req.params;
+    const user = mockUsers.find(u => u.id === id);
+    return user ? res(ctx.json({ user })) : res(ctx.status(404));
+  }),
+];
+```
+
+### 🔄 API Integration
+
+```tsx
+// React Query Integration
+export const useUser = (id: string) => {
+  return useQuery({
+    queryKey: ['user', id],
+    queryFn: () => api.users.getById(id),
+    enabled: !!id,
+    staleTime: 5 * 60 * 1000, // 5 minutes
+  });
+};
+
+export const useUpdateUser = () => {
+  const queryClient = useQueryClient();
+  
+  return useMutation({
+    mutationFn: (user: UpdateUserDto) => api.users.update(user.id, user),
+    onSuccess: (data) => {
+      queryClient.setQueryData(['user', data.id], data);
+      queryClient.invalidateQueries({ queryKey: ['users'] });
+    },
+  });
+};
+
+// Custom API Client
+class ApiClient {
+  private baseURL: string;
+  
+  constructor(baseURL: string) {
+    this.baseURL = baseURL;
+  }
+
+  private async request<T>(
+    endpoint: string,
+    options: RequestInit = {}
+  ): Promise<T> {
+    const url = `${this.baseURL}${endpoint}`;
+    const config: RequestInit = {
+      headers: {
+        'Content-Type': 'application/json',
+        ...options.headers,
+      },
+      ...options,
+    };
+
+    const response = await fetch(url, config);
+    
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    
+    return response.json();
+  }
+
+  get<T>(endpoint: string) {
+    return this.request<T>(endpoint);
+  }
+
+  post<T>(endpoint: string, data: any) {
+    return this.request<T>(endpoint, {
+      method: 'POST',
+      body: JSON.stringify(data),
+    });
+  }
+
+  put<T>(endpoint: string, data: any) {
+    return this.request<T>(endpoint, {
+      method: 'PUT',
+      body: JSON.stringify(data),
+    });
+  }
+
+  delete<T>(endpoint: string) {
+    return this.request<T>(endpoint, {
+      method: 'DELETE',
+    });
+  }
+}
+```
+
+### 🌐 Build Configuration
+
+```javascript
+// webpack.config.js
+const path = require('path');
+const HtmlWebpackPlugin = require('html-webpack-plugin');
+const MiniCssExtractPlugin = require('mini-css-extract-plugin');
+
+module.exports = {
+  entry: './src/index.tsx',
+  output: {
+    path: path.resolve(__dirname, 'dist'),
+    filename: '[name].[contenthash].js',
+    clean: true,
+  },
+  module: {
+    rules: [
+      {
+        test: /\.tsx?$/,
+        use: 'ts-loader',
+        exclude: /node_modules/,
+      },
+      {
+        test: /\.scss$/,
+        use: [
+          MiniCssExtractPlugin.loader,
+          'css-loader',
+          'sass-loader',
+        ],
+      },
+    ],
+  },
+  plugins: [
+    new HtmlWebpackPlugin({
+      template: './public/index.html',
+    }),
+    new MiniCssExtractPlugin({
+      filename: '[name].[contenthash].css',
+    }),
+  ],
+  optimization: {
+    splitChunks: {
+      chunks: 'all',
+      cacheGroups: {
+        vendor: {
+          test: /[\\/]node_modules[\\/]/,
+          name: 'vendors',
+          chunks: 'all',
+        },
+      },
+    },
+  },
+};
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Stephen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mac254&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mac254&layout=compact&theme=vue-dark&hide_border=true)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### [KenyaTech Platform](https://github.com/mac254/kenyatech)
+**Tech Stack:** React, TypeScript, Next.js, PostgreSQL, Tailwind CSS
+
+A comprehensive platform connecting Kenyan developers with global opportunities. Features include developer profiles, job matching algorithms, and community forums.
+
+### [Design System Library](https://github.com/mac254/ui-component-library)
+**Tech Stack:** React, TypeScript, Storybook, SCSS, Jest
+
+Enterprise-grade component library with 50+ accessible components, comprehensive documentation, and 95% test coverage.
+
+### [Real-time Analytics Dashboard](https://github.com/mac254/react-dashboard)
+**Tech Stack:** React, Redux, WebSocket, Chart.js, Material-UI
+
+Business intelligence dashboard with real-time data visualization, customizable widgets, and advanced filtering capabilities.
+
+---
+
+## 🔗 Connect & Collaborate
+
+- 💼 **LinkedIn:** [stephen-mburu](https://linkedin.com/in/stephen-mburu)
+- 🌐 **Portfolio:** [mac254.dev](https://mac254.dev)
+- 📧 **Email:** [mburustephen167@gmail.com](mailto:mburustephen167@gmail.com)
+- 📅 **Schedule:** [Book a meeting](https://calendly.com/stephen-mburu)
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mac254&color=blueviolet&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/mac254?label=Followers&style=social)](https://github.com/mac254)
+
+*"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+</div>
