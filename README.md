@@ -1,201 +1,294 @@
-# Stephen Mburu
-
-**Senior UI/UX Frontend Architect** • Nairobi, Kenya 🇰🇪
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-mburu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://mac254.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/stephen_mburu)
-
----
-
-## 👨‍💻 About Me
-
-I’m a **frontend architect** passionate about crafting elegant, scalable, and user-centered digital experiences.  
-With **5+ years** of experience, I specialize in designing and developing high-performance applications using modern JavaScript frameworks, building design systems, and leading product design initiatives.
-
-**Currently:** Building **KenyaTech**, a community-driven platform connecting Kenyan developers with global opportunities and mentorship.
-
----
-
-## 🚀 Tech Stack
-
-```javascript
-const stephen = {
-  code: ["JavaScript", "TypeScript", "HTML5", "CSS3", "Python"],
-  frameworks: ["React", "Next.js", "Angular", "Vue.js"],
-  styling: ["Tailwind CSS", "SCSS", "Styled Components", "Material-UI"],
-  tools: ["Figma", "Storybook", "Jest", "Cypress", "Webpack"],
-  databases: ["MongoDB", "PostgreSQL", "Firebase"],
-  architecture: ["Micro-frontends", "Design Systems", "JAMstack"]
-};
-
-🎯 What I Do
-Frontend Development
-
-    Build responsive, scalable, and performant web applications.
-
-    Create reusable UI component libraries and maintain design systems.
-
-    Optimize web performance through efficient rendering and caching.
-
-UI/UX Design
-
-    Conduct user research and usability testing.
-
-    Prototype and wireframe using Figma with an accessibility-first approach.
-
-    Align design strategy with user and business goals.
-
-Technical Leadership
-
-    Mentor developers and enforce clean code practices.
-
-    Define architecture and implement CI/CD pipelines.
-
-    Drive strategic product and technical decisions.
-
-🏆 Featured Projects
-🌐 KenyaTech Platform
-
-A platform connecting Kenyan developers with jobs, learning resources, and mentorship.
-
-Features:
-
-    Developer portfolios and profiles
-
-    Job matching algorithm
-
-    Discussion forums and event boards
-
-    Skills testing modules
-
-Tech Stack: React, TypeScript, Next.js, Tailwind CSS, PostgreSQL
-🎨 Design System Library
-
-Enterprise-grade component library built for scalable applications.
-
-Features:
-
-    50+ accessible components
-
-    Dark/light theme support
-
-    Storybook documentation
-
-    95% test coverage
-
-Tech Stack: React, Storybook, SCSS, Jest, Chromatic
-📊 Analytics Dashboard
-
-Real-time analytics dashboard for business intelligence and reporting.
-
-Features:
-
-    Live data streaming and visualization
-
-    Customizable widgets
-
-    Export functionality
-
-    Real-time updates
-
-Tech Stack: React, Redux, Chart.js, Material-UI, WebSocket
-🛠️ Languages and Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nextjs,angular,vue" /> <img src="https://skillicons.dev/icons?i=html,css,tailwind,sass,styledcomponents,materialui" /> <img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,postgresql,firebase,supabase" /> <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,docker,aws" /> </p>
-📊 GitHub Analytics
 <div align="center">
 
-Stephen's GitHub Stats
+# 👋 Hi, I'm Stephen Mburu
 
-GitHub Streak
+### Senior Frontend Engineer & UI/UX Architect
+### 🇰🇪 Nairobi, Kenya
+
+*Crafting pixel-perfect experiences that scale beautifully*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-mburu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://mac254.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stephen_mburu)
+
 </div>
-📈 Contribution Graph
 
-Stephen's Activity Graph
-🌟 Achievements
-
-    🥇 Top 1% GitHub contributors in Kenya
-
-    🎨 Google UI/UX Certified Designer
-
-    📱 React Native Expert – built 50+ mobile applications
-
-    🚀 Open Source Contributor – 1000+ commits
-
-    👥 Community Leader – organized 10+ developer meetups
-
-💼 Professional Services
-Service	Description	Technologies
-Frontend Development	High-performance SPAs and custom web apps	React, Next.js, TypeScript
-UI/UX Design	Research, wireframing, and prototyping	Figma, Sketch, Adobe XD
-Design Systems	Reusable UI libraries and scalable design systems	Storybook, Tailwind, SCSS
-Mobile Development	Cross-platform mobile apps	React Native, Flutter
-Consulting & Mentorship	Architecture planning, code audits, and training	Various stacks
-📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-
-    Building Scalable Design Systems with React and Storybook
-
-The Future of Frontend Development in Africa
-
-Optimizing React Performance: A Complete Guide
-
-Creating Accessible Web Applications
-<!-- BLOG-POST-LIST:END -->
-🎯 Goals for 2025
-
-Launch KenyaTech Platform with 1000+ developers onboarded
-
-Contribute to 5 major open-source projects
-
-Speak at 3 international conferences
-
-Mentor 20+ junior developers
-
-    Earn AWS Solutions Architect Certification
-
-📊 Weekly Development Breakdown
-
-TypeScript   12 hrs 30 mins  ████████████████████████▓   45.2%
-React        8 hrs 15 mins   ████████████████▓▓▓▓▓▓▓▓▓   29.8%
-SCSS         3 hrs 45 mins   ██████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓   13.5%
-Figma        2 hrs 30 mins   ████▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    9.0%
-Other        45 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    2.5%
-
-🤝 Let's Connect
-
-I’m always open to exciting collaborations, mentorships, or speaking opportunities.
-
-    Collaboration – Build innovative projects together
-
-    Mentorship – Helping developers sharpen frontend and design skills
-
-    Speaking – Available for conferences, podcasts, and panels
-
-    Freelance Work – UI/UX and frontend excellence for global clients
-
-📅 Schedule a Meeting
-or reach out via Email
-🎵 Fun Facts
-
-    🎸 I play guitar and compose music
-
-    🏃‍♂️ Marathon runner (PB: 3h45m)
-
-    📚 Reading “Clean Architecture” by Robert C. Martin
-
-    ☕ Coffee aficionado — Kenyan single-origin enthusiast
-
-    🌍 Passionate about tech solutions for African challenges
+---
 
 <div align="center">
 
-Profile Views
-GitHub followers
-GitHub stars
+## ☕ About Me
 
-"Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
+</div>
 
-Building the future, one component at a time 🚀
-</div> ```
+I'm a frontend engineer obsessed with creating **elegant**, **performant**, and **accessible** interfaces.  
+Over the last 5 years, I've built modern web ecosystems — from scalable React dashboards to enterprise-grade design systems.
+
+🚀 **Currently:** Leading **KenyaTech**, a platform connecting Kenyan developers to global opportunities.
+
+> *"Design without empathy is decoration, and code without structure is chaos."*
+
+---
+
+<div align="center">
+
+## 🛠️ Tech Stack
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript" /><br />
+<b>Frontend Frameworks</b>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tailwind,sass,css,html" /><br />
+<b>Styling</b>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgresql,mongodb" /><br />
+<b>Backend & Databases</b>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=figma,git,vscode,docker" /><br />
+<b>Tools</b>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🎯 What I Do
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💻 Frontend Development
+- Scalable React applications
+- Component libraries & design systems
+- Performance optimization
+- CI/CD integration
+
+</td>
+<td width="33%" valign="top">
+
+### 🎨 UI/UX Design
+- User research & testing
+- Wireframes & prototypes
+- Figma designs
+- Accessibility-first approach
+
+</td>
+<td width="33%" valign="top">
+
+### 🧭 Technical Leadership
+- Mentoring developers
+- Code reviews & standards
+- Agile team management
+- Architecture decisions
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=stephen-mburu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stephen-mburu&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=BF91F3&fire=FF6B9D&currStreakLabel=BF91F3" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stephen-mburu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="90%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Featured Projects
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 KenyaTech Platform
+A community platform connecting Kenyan developers to global opportunities.
+
+**✨ Highlights:**
+- Developer portfolio showcase
+- Job-matching algorithms
+- Community forums & events
+
+**🔧 Stack:** React • TypeScript • Next.js • PostgreSQL
+
+</td>
+<td width="50%">
+
+### 🎨 UI Component Library
+Enterprise design system with 50+ accessible components.
+
+**✨ Highlights:**
+- Comprehensive Storybook docs
+- Light/dark theme support
+- Full accessibility compliance
+
+**🔧 Stack:** React • Storybook • SCSS • Jest
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📊 Analytics Dashboard
+Real-time KPI visualization dashboard.
+
+**✨ Highlights:**
+- Live data streaming
+- Custom chart widgets
+- Responsive grid layout
+
+**🔧 Stack:** React • Redux • Chart.js • WebSocket
+
+</td>
+<td width="50%">
+
+### 📱 Mobile App Suite
+Cross-platform mobile applications.
+
+**✨ Highlights:**
+- 50+ apps deployed
+- Native performance
+- Offline-first architecture
+
+**🔧 Stack:** React Native • Flutter • Firebase
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🌟 Achievements & Trophies
+
+</div>
+
+<div align="center">
+
+🏆 **Top 1% GitHub Contributors in Kenya**  
+🎨 **Google Certified in UI/UX Design**  
+📱 **50+ React Native Apps Deployed**  
+🚀 **1000+ Open-Source Contributions**  
+👥 **Organized 10+ Developer Meetups**
+
+<img src="https://github-profile-trophy.vercel.app/?username=stephen-mburu&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 Professional Services
+
+</div>
+
+| 🎯 Service | 📝 Description | 🔧 Technologies |
+|:-----------|:---------------|:----------------|
+| **Frontend Development** | Modern web apps and SPAs | React, Next.js, TypeScript |
+| **UI/UX Design** | Research, wireframes, prototypes | Figma, Adobe XD |
+| **Design Systems** | Reusable component libraries | Storybook, Tailwind CSS |
+| **Mobile Development** | Cross-platform applications | React Native, Flutter |
+| **Technical Consulting** | Architecture & performance reviews | Full-stack expertise |
+
+---
+
+<div align="center">
+
+## 📈 Coding Activity
+
+</div>
+
+```text
+TypeScript   12 hrs 30 mins  ████████████████████░░░░░   45.2 %
+React         8 hrs 15 mins  ████████████████░░░░░░░░░   29.8 %
+SCSS          3 hrs 45 mins  ██████░░░░░░░░░░░░░░░░░░░   13.5 %
+Figma         2 hrs 30 mins  ████░░░░░░░░░░░░░░░░░░░░░    9.0 %
+Other            45 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░    2.5 %
+```
+
+---
+
+<div align="center">
+
+## 🎯 2025 Goals
+
+</div>
+
+- ✅ Launch KenyaTech with 1000+ active developers
+- 🔄 Contribute to 5 major open-source projects
+- 🎤 Speak at 3 international tech conferences
+- 👨‍🏫 Mentor 20+ junior developers
+- 📜 Complete AWS Solutions Architect Certification
+
+---
+
+<div align="center">
+
+## ☕ Fun Facts About Me
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center">🎸<br/><b>Guitar Player</b><br/>Write music in spare time</td>
+<td align="center">🏃‍♂️<br/><b>Marathon Runner</b><br/>Personal best: 3:45</td>
+<td align="center">📚<br/><b>Bookworm</b><br/>Clean Architecture fan</td>
+<td align="center">☕<br/><b>Coffee Addict</b><br/>Kenyan single origins</td>
+<td align="center">🌍<br/><b>Tech for Good</b><br/>Solving African challenges</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect!
+
+I'm always open to collaborating or mentoring developers.  
+Whether it's a product idea, design consultation, or a hackathon — **let's talk!**
+
+[![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/stephen-mburu)
+[![Send Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=stephen-mburu&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub Followers](https://img.shields.io/github/followers/stephen-mburu?style=for-the-badge&color=blue&labelColor=1c1917)](https://github.com/stephen-mburu?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/stephen-mburu?style=for-the-badge&color=yellow&labelColor=1c1917)](https://github.com/stephen-mburu?tab=repositories)
+
+---
+
+### *"Design is not just what it looks like and feels like — design is how it works."*
+— Steve Jobs
+
+### **Building the future, one component at a time** 🚀
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
