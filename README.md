@@ -2,15 +2,14 @@
 
 # 👋 Hi, I'm Stephen Mburu
 
-### Senior Frontend Engineer & UI/UX Architect
-### 🇰🇪 Nairobi, Kenya
+### Frontend Engineer • UI-Focused Software Developer
+### 🇰🇪 Kenya
 
-*Crafting pixel-perfect experiences that scale beautifully*
+*Building reliable, user-centered interfaces with production discipline*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephen-mburu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://mac254.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stephen_mburu)
 
 </div>
 
@@ -22,38 +21,44 @@
 
 </div>
 
-I'm a frontend engineer obsessed with creating **elegant**, **performant**, and **accessible** interfaces.  
-Over the last 5 years, I've built modern web ecosystems — from scalable React dashboards to enterprise-grade design systems.
+I’m a frontend engineer with a strong focus on **clean UI architecture**, **maintainable code**, and **real-world usability**.  
+I don’t chase trends blindly — I focus on **clarity**, **structure**, and **systems that scale without breaking**.
 
-🚀 **Currently:** Leading **KenyaTech**, a platform connecting Kenyan developers to global opportunities.
+My experience spans **web applications**, **dashboards**, **chat systems**, and **e-commerce platforms**, where I’ve worked across the full frontend lifecycle: planning, implementation, iteration, and refinement.
 
-> *"Design without empathy is decoration, and code without structure is chaos."*
+🚀 **Currently:** Software Development Intern at **Nanatec Software Company**, contributing to internal tools, client-facing systems, and UI improvements.
+
+> *Good interfaces reduce thinking. Good code reduces future regret.*
 
 ---
 
 <div align="center">
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skillset
 
 </div>
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript" /><br />
-<b>Frontend Frameworks</b>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" /><br />
+<b>Core Web</b><br/>
+Semantic HTML • Modern CSS • ES6+ • Type Safety
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=tailwind,sass,css,html" /><br />
-<b>Styling</b>
+<img src="https://skillicons.dev/icons?i=react,svelte,angular,vite" /><br />
+<b>Frontend Frameworks</b><br/>
+Component Architecture • State Handling • SPA Patterns
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=nodejs,python,postgresql,mongodb" /><br />
-<b>Backend & Databases</b>
+<img src="https://skillicons.dev/icons?i=tailwind,sass,figma" /><br />
+<b>UI & Styling</b><br/>
+Design-to-Code • Responsive Systems • Accessibility
 </td>
 <td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=figma,git,vscode,docker" /><br />
-<b>Tools</b>
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,git" /><br />
+<b>Backend & Tools</b><br/>
+REST APIs • Auth Basics • Version Control
 </td>
 </tr>
 </table>
@@ -62,7 +67,7 @@ Over the last 5 years, I've built modern web ecosystems — from scalable React 
 
 <div align="center">
 
-## 🎯 What I Do
+## 🧩 Engineering Focus Areas
 
 </div>
 
@@ -70,29 +75,32 @@ Over the last 5 years, I've built modern web ecosystems — from scalable React 
 <tr>
 <td width="33%" valign="top">
 
-### 💻 Frontend Development
-- Scalable React applications
-- Component libraries & design systems
-- Performance optimization
-- CI/CD integration
+### 💻 Frontend Engineering
+- Component-driven development  
+- Responsive & mobile-first layouts  
+- API consumption & async data flow  
+- State & UI synchronization  
+- Debugging layout & rendering issues  
 
 </td>
 <td width="33%" valign="top">
 
-### 🎨 UI/UX Design
-- User research & testing
-- Wireframes & prototypes
-- Figma designs
-- Accessibility-first approach
+### 🎨 UI & UX Implementation
+- Translating Figma designs into code  
+- Building reusable UI patterns  
+- Improving visual hierarchy & spacing  
+- Accessibility-aware UI decisions  
+- Reducing UI complexity  
 
 </td>
 <td width="33%" valign="top">
 
-### 🧭 Technical Leadership
-- Mentoring developers
-- Code reviews & standards
-- Agile team management
-- Architecture decisions
+### 🧠 Engineering Discipline
+- Refactoring for readability  
+- Avoiding tight coupling  
+- Understanding framework internals  
+- Learning by rebuilding systems  
+- Writing code for future maintainers  
 
 </td>
 </tr>
@@ -102,20 +110,7 @@ Over the last 5 years, I've built modern web ecosystems — from scalable React 
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=stephen-mburu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=70A5FD&icon_color=BF91F3&text_color=38BDF8" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stephen-mburu&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=BF91F3&fire=FF6B9D&currStreakLabel=BF91F3" alt="GitHub Streak" height="170"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=stephen-mburu&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="90%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🏆 Featured Projects
+## 🏗️ Professional & Academic Projects
 
 </div>
 
@@ -123,56 +118,56 @@ Over the last 5 years, I've built modern web ecosystems — from scalable React 
 <tr>
 <td width="50%">
 
-### 🌐 KenyaTech Platform
-A community platform connecting Kenyan developers to global opportunities.
+### 🛒 Mama Soko App
+Multi-role e-commerce platform connecting local retailers with customers.
 
-**✨ Highlights:**
-- Developer portfolio showcase
-- Job-matching algorithms
-- Community forums & events
+**Responsibilities**
+- Designed responsive customer & admin interfaces  
+- Implemented product, order, and user flows  
+- Focused on clarity for non-technical users  
 
-**🔧 Stack:** React • TypeScript • Next.js • PostgreSQL
+**Stack:** React • PHP • MySQL • Tailwind CSS
 
 </td>
 <td width="50%">
 
-### 🎨 UI Component Library
-Enterprise design system with 50+ accessible components.
+### 💬 Bima Chatbot Widget
+Embeddable AI chatbot for websites.
 
-**✨ Highlights:**
-- Comprehensive Storybook docs
-- Light/dark theme support
-- Full accessibility compliance
+**Responsibilities**
+- Built style-isolated widget architecture  
+- Prevented CSS conflicts with host websites  
+- Designed professional, minimal UI  
 
-**🔧 Stack:** React • Storybook • SCSS • Jest
+**Stack:** JavaScript • CSS • API Integration
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 📊 Analytics Dashboard
-Real-time KPI visualization dashboard.
+### 📊 Task Tracker Dashboard
+Web-based productivity dashboard.
 
-**✨ Highlights:**
-- Live data streaming
-- Custom chart widgets
-- Responsive grid layout
+**Responsibilities**
+- Implemented task states & progress tracking  
+- Built clean dashboard layout  
+- Ensured mobile usability  
 
-**🔧 Stack:** React • Redux • Chart.js • WebSocket
+**Stack:** HTML • CSS • JavaScript • PHP
 
 </td>
 <td width="50%">
 
-### 📱 Mobile App Suite
-Cross-platform mobile applications.
+### 📱 QuickSplit (Android)
+Group expense-splitting application.
 
-**✨ Highlights:**
-- 50+ apps deployed
-- Native performance
-- Offline-first architecture
+**Responsibilities**
+- Designed group & expense logic  
+- Integrated MySQL backend  
+- Built simple, clear mobile UI  
 
-**🔧 Stack:** React Native • Flutter • Firebase
+**Stack:** Java • Android Studio • MySQL
 
 </td>
 </tr>
@@ -182,113 +177,49 @@ Cross-platform mobile applications.
 
 <div align="center">
 
-## 🌟 Achievements & Trophies
+## 📊 GitHub Activity
 
 </div>
 
-<div align="center">
-
-🏆 **Top 1% GitHub Contributors in Kenya**  
-🎨 **Google Certified in UI/UX Design**  
-📱 **50+ React Native Apps Deployed**  
-🚀 **1000+ Open-Source Contributions**  
-👥 **Organized 10+ Developer Meetups**
-
-<img src="https://github-profile-trophy.vercel.app/?username=stephen-mburu&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=stephen-mburu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stephen-mburu&theme=tokyonight&hide_border=true" height="170"/>
 
 ---
 
 <div align="center">
 
-## 💼 Professional Services
+## 📈 Current Technical Focus
 
 </div>
 
-| 🎯 Service | 📝 Description | 🔧 Technologies |
-|:-----------|:---------------|:----------------|
-| **Frontend Development** | Modern web apps and SPAs | React, Next.js, TypeScript |
-| **UI/UX Design** | Research, wireframes, prototypes | Figma, Adobe XD |
-| **Design Systems** | Reusable component libraries | Storybook, Tailwind CSS |
-| **Mobile Development** | Cross-platform applications | React Native, Flutter |
-| **Technical Consulting** | Architecture & performance reviews | Full-stack expertise |
-
----
+JavaScript     █████████████████░░░   Strong
+React          ███████████████░░░░░   Solid
+CSS/Tailwind   ██████████████████░░   Very Strong
+TypeScript     ██████████░░░░░░░░░   Improving
+Backend APIs   ████████░░░░░░░░░░░   Functional
 
 <div align="center">
-
-## 📈 Coding Activity
-
+🎯 Short-Term Goals
 </div>
 
-```text
-TypeScript   12 hrs 30 mins  ████████████████████░░░░░   45.2 %
-React         8 hrs 15 mins  ████████████████░░░░░░░░░   29.8 %
-SCSS          3 hrs 45 mins  ██████░░░░░░░░░░░░░░░░░░░   13.5 %
-Figma         2 hrs 30 mins  ████░░░░░░░░░░░░░░░░░░░░░    9.0 %
-Other            45 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░    2.5 %
-```
+    Ship polished, production-quality frontend projects
 
----
+    Deepen React & state management expertise
+
+    Strengthen accessibility & performance skills
+
+    Build a strong, honest portfolio
+
+    Secure a frontend engineer role
 
 <div align="center">
+☕ Personal Notes
+</div> <table align="center"> <tr> <td align="center">🧠<br/>Obsessed with clarity</td> <td align="center">🔁<br/>Refactor-first mindset</td> <td align="center">📚<br/>Learn by rebuilding</td> <td align="center">☕<br/>Coffee-powered debugging</td> <td align="center">🌍<br/>Building for real users</td> </tr> </table> <div align="center">
+🤝 Let’s Connect
 
-## 🎯 2025 Goals
+I’m open to internships, junior frontend roles, and collaborative projects.
+If you value clean UI, thoughtful code, and steady growth, we should talk.
 
-</div>
-
-- ✅ Launch KenyaTech with 1000+ active developers
-- 🔄 Contribute to 5 major open-source projects
-- 🎤 Speak at 3 international tech conferences
-- 👨‍🏫 Mentor 20+ junior developers
-- 📜 Complete AWS Solutions Architect Certification
-
----
-
-<div align="center">
-
-## ☕ Fun Facts About Me
-
-</div>
-
-<table align="center">
-<tr>
-<td align="center">🎸<br/><b>Guitar Player</b><br/>Write music in spare time</td>
-<td align="center">🏃‍♂️<br/><b>Marathon Runner</b><br/>Personal best: 3:45</td>
-<td align="center">📚<br/><b>Bookworm</b><br/>Clean Architecture fan</td>
-<td align="center">☕<br/><b>Coffee Addict</b><br/>Kenyan single origins</td>
-<td align="center">🌍<br/><b>Tech for Good</b><br/>Solving African challenges</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect!
-
-I'm always open to collaborating or mentoring developers.  
-Whether it's a product idea, design consultation, or a hackathon — **let's talk!**
-
-[![Schedule Meeting](https://img.shields.io/badge/Schedule_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white)](https://calendly.com/stephen-mburu)
-[![Send Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=stephen-mburu&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/stephen-mburu?style=for-the-badge&color=blue&labelColor=1c1917)](https://github.com/stephen-mburu?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/stephen-mburu?style=for-the-badge&color=yellow&labelColor=1c1917)](https://github.com/stephen-mburu?tab=repositories)
-
----
-
-### *"Design is not just what it looks like and feels like — design is how it works."*
-— Steve Jobs
-
-### **Building the future, one component at a time** 🚀
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
+Send Email
+“Complexity is easy to create. Simplicity takes work.”
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div> ```
