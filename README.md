@@ -5,7 +5,7 @@
 ### Frontend Engineer • UI-Focused Software Developer
 ### 🇰🇪 Kenya
 
-*Building reliable, user-centered interfaces with production discipline*
+*Designing and engineering interfaces that are clear, scalable, and built to last.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white)](https://mac254.dev)
@@ -15,211 +15,176 @@
 
 ---
 
-<div align="center">
+## 🧠 Professional Summary
 
-## ☕ About Me
+Frontend engineer with hands-on experience building **responsive web applications**, **dashboard interfaces**, and **component-based UI systems**. I focus on writing code that is readable, maintainable, and aligned with real user needs.
 
-</div>
-
-I’m a frontend engineer with a strong focus on **clean UI architecture**, **maintainable code**, and **real-world usability**.  
-I don’t chase trends blindly — I focus on **clarity**, **structure**, and **systems that scale without breaking**.
-
-My experience spans **web applications**, **dashboards**, **chat systems**, and **e-commerce platforms**, where I’ve worked across the full frontend lifecycle: planning, implementation, iteration, and refinement.
-
-🚀 **Currently:** Software Development Intern at **Nanatec Software Company**, contributing to internal tools, client-facing systems, and UI improvements.
-
-> *Good interfaces reduce thinking. Good code reduces future regret.*
+I’ve worked across academic, personal, and professional projects, collaborating in team environments and contributing to production-oriented systems. My strength lies in **UI implementation**, **frontend architecture fundamentals**, and **bridging design with engineering**.
 
 ---
 
-<div align="center">
+## 🏢 Experience
 
-## 🛠️ Technical Skillset
+### **Software Development Intern — Nanatec Software Company**
+*2024 – Present*
 
-</div>
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript" /><br />
-<b>Core Web</b><br/>
-Semantic HTML • Modern CSS • ES6+ • Type Safety
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react,svelte,angular,vite" /><br />
-<b>Frontend Frameworks</b><br/>
-Component Architecture • State Handling • SPA Patterns
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=tailwind,sass,figma" /><br />
-<b>UI & Styling</b><br/>
-Design-to-Code • Responsive Systems • Accessibility
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,git" /><br />
-<b>Backend & Tools</b><br/>
-REST APIs • Auth Basics • Version Control
-</td>
-</tr>
-</table>
+- Contribute to internal tools and client-facing web systems  
+- Implement responsive UI components from design specs  
+- Improve layout consistency and usability across screens  
+- Collaborate with developers to debug and refine frontend logic  
+- Gain exposure to production workflows and team code standards  
 
 ---
 
-<div align="center">
+## 🎓 Education
 
-## 🧩 Engineering Focus Areas
+**BSc. Applied Computer Science**  
+Undergraduate
 
-</div>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💻 Frontend Engineering
-- Component-driven development  
-- Responsive & mobile-first layouts  
-- API consumption & async data flow  
-- State & UI synchronization  
-- Debugging layout & rendering issues  
-
-</td>
-<td width="33%" valign="top">
-
-### 🎨 UI & UX Implementation
-- Translating Figma designs into code  
-- Building reusable UI patterns  
-- Improving visual hierarchy & spacing  
-- Accessibility-aware UI decisions  
-- Reducing UI complexity  
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 Engineering Discipline
-- Refactoring for readability  
-- Avoiding tight coupling  
-- Understanding framework internals  
-- Learning by rebuilding systems  
-- Writing code for future maintainers  
-
-</td>
-</tr>
-</table>
+- Strong foundation in software engineering principles  
+- Experience with data structures, databases, and system design basics  
+- Applied learning through real-world projects and internships  
 
 ---
 
-<div align="center">
+## 🛠️ Technical Skills
 
-## 🏗️ Professional & Academic Projects
+### Frontend
+- HTML5 (semantic markup, accessibility basics)
+- CSS3, Tailwind CSS, SCSS
+- JavaScript (ES6+), TypeScript (working knowledge)
+- React, SvelteKit, Angular
+- Responsive & mobile-first design
 
-</div>
+### Backend & Data
+- PHP (basic backend logic)
+- Node.js (introductory)
+- MySQL, MongoDB
+- REST API integration
 
-<table>
-<tr>
-<td width="50%">
+### Tools & Workflow
+- Git & GitHub (branching, PRs, version control)
+- Figma (design handoff, UI reference)
+- Vite, npm
+- VS Code
+
+---
+
+## 🧩 Engineering Principles I Follow
+
+- Write code for **humans first**, machines second  
+- Prefer simple solutions over clever ones  
+- Break UI into reusable, predictable components  
+- Keep styling systems consistent and scalable  
+- Refactor early to avoid technical debt  
+
+---
+
+## 🏗️ Selected Projects
 
 ### 🛒 Mama Soko App
 Multi-role e-commerce platform connecting local retailers with customers.
 
-**Responsibilities**
-- Designed responsive customer & admin interfaces  
-- Implemented product, order, and user flows  
-- Focused on clarity for non-technical users  
+**What I worked on**
+- Customer and admin UI layouts  
+- Product and order flow screens  
+- Responsive design for low-end devices  
 
-**Stack:** React • PHP • MySQL • Tailwind CSS
+**Tech:** React • PHP • MySQL • Tailwind CSS
 
-</td>
-<td width="50%">
+---
 
 ### 💬 Bima Chatbot Widget
-Embeddable AI chatbot for websites.
+Embeddable AI chatbot widget for websites.
 
-**Responsibilities**
-- Built style-isolated widget architecture  
-- Prevented CSS conflicts with host websites  
-- Designed professional, minimal UI  
+**What I worked on**
+- Style isolation to prevent host-site conflicts  
+- Clean, professional widget UI  
+- Reusable widget structure  
 
-**Stack:** JavaScript • CSS • API Integration
+**Tech:** JavaScript • CSS • API Integration
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+---
 
 ### 📊 Task Tracker Dashboard
-Web-based productivity dashboard.
+Web-based productivity and task-tracking system.
 
-**Responsibilities**
-- Implemented task states & progress tracking  
-- Built clean dashboard layout  
-- Ensured mobile usability  
+**What I worked on**
+- Task states and progress indicators  
+- Dashboard layout structure  
+- Mobile responsiveness  
 
-**Stack:** HTML • CSS • JavaScript • PHP
+**Tech:** HTML • CSS • JavaScript • PHP
 
-</td>
-<td width="50%">
+---
 
 ### 📱 QuickSplit (Android)
-Group expense-splitting application.
+Expense-splitting application for groups.
 
-**Responsibilities**
-- Designed group & expense logic  
-- Integrated MySQL backend  
-- Built simple, clear mobile UI  
+**What I worked on**
+- Expense calculation logic  
+- Database interaction  
+- Simple, intuitive mobile UI  
 
-**Stack:** Java • Android Studio • MySQL
-
-</td>
-</tr>
-</table>
+**Tech:** Java • Android Studio • MySQL
 
 ---
 
-<div align="center">
+## 📐 UI / UX Focus
 
-## 📊 GitHub Activity
-
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=stephen-mburu&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=stephen-mburu&theme=tokyonight&hide_border=true" height="170"/>
+- Strong visual hierarchy and spacing  
+- Consistent component sizing and alignment  
+- Clear user flows and feedback states  
+- Accessibility-aware color and contrast choices  
+- Practical, non-overdesigned interfaces  
 
 ---
 
-<div align="center">
+## 🧪 How I Learn & Improve
 
-## 📈 Current Technical Focus
+- Rebuild projects from scratch to understand internals  
+- Refactor existing code to improve clarity  
+- Study professional codebases and UI systems  
+- Apply feedback aggressively  
+- Document lessons learned  
 
-</div>
+---
 
-JavaScript     █████████████████░░░   Strong
-React          ███████████████░░░░░   Solid
-CSS/Tailwind   ██████████████████░░   Very Strong
-TypeScript     ██████████░░░░░░░░░   Improving
-Backend APIs   ████████░░░░░░░░░░░   Functional
+## 📈 GitHub Activity
 
-<div align="center">
-🎯 Short-Term Goals
-</div>
+I focus on **meaningful commits** and **project-based learning** rather than superficial metrics. Most repositories reflect experimentation, iteration, and gradual improvement.
 
-    Ship polished, production-quality frontend projects
+---
 
-    Deepen React & state management expertise
+## 🎯 Career Goals
 
-    Strengthen accessibility & performance skills
+- Grow into a strong frontend engineer role  
+- Master modern React patterns and state management  
+- Build production-ready UI systems  
+- Improve performance and accessibility expertise  
+- Contribute to impactful products  
 
-    Build a strong, honest portfolio
+---
 
-    Secure a frontend engineer role
+## ☕ Personal Values
 
-<div align="center">
-☕ Personal Notes
-</div> <table align="center"> <tr> <td align="center">🧠<br/>Obsessed with clarity</td> <td align="center">🔁<br/>Refactor-first mindset</td> <td align="center">📚<br/>Learn by rebuilding</td> <td align="center">☕<br/>Coffee-powered debugging</td> <td align="center">🌍<br/>Building for real users</td> </tr> </table> <div align="center">
-🤝 Let’s Connect
+- Clarity over complexity  
+- Progress over perfection  
+- Learning through building  
+- Respect for users and fellow developers  
 
-I’m open to internships, junior frontend roles, and collaborative projects.
-If you value clean UI, thoughtful code, and steady growth, we should talk.
+---
 
-Send Email
-“Complexity is easy to create. Simplicity takes work.”
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </div> ```
+## 🤝 Let’s Connect
+
+I’m open to internships, junior frontend roles, collaborations, and mentorship opportunities.
+
+If you’re building something real and care about **clean UI and thoughtful code**, I’d love to connect.
+
+[![Send Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
+
+---
+
+### *“Simple is not easy. It’s disciplined.”*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
