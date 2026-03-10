@@ -94,18 +94,6 @@ Multi-role e-commerce platform connecting local retailers with customers.
 
 ---
 
-### 💬 Bima Chatbot Widget
-Embeddable AI chatbot widget for websites.
-
-**What I worked on**
-- Style isolation to prevent host-site conflicts  
-- Clean, professional widget UI  
-- Reusable widget structure  
-
-**Tech:** JavaScript • CSS • API Integration
-
----
-
 ### 📊 Task Tracker Dashboard
 Web-based productivity and task-tracking system.
 
