@@ -1,31 +1,50 @@
-<h1 align="center">Hi 👋, I'm STEPHEN MBURU</h1>
-<h3 align="center">A passionate Frontend Engineer building responsive web applications, UI systems, and scalable interfaces — conversant in React, TypeScript, Tailwind CSS, SvelteKit, Angular, JavaScript (ES6+), PHP (Laravel), Node.js, and mobile development with Java (Android)</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mac254&label=Profile%20views&color=0e75b6&style=flat&include_all_commits=true&count_private=true" alt="mac254" /> </p>
+<h1>Hi 👋, I'm STEPHEN MBURU</h1>
+<h3>Frontend Engineer · UI Systems · Performance · Scalable Interfaces</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mac254&include_all_commits=true&count_private=true" alt="mac254" /></a> </p>
+<p>
+<a href="https://www.linkedin.com/in/stephen-mburu-5330a5222/" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mburustephen167@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://mac254.dev">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+</p>
 
-- 🔭 I'm currently working on **e-Commerce platforms, dashboard systems, and component UI libraries**
+<img src="https://komarev.com/ghpvc/?username=mac254&label=Profile%20views&color=0e75b6&style=flat" alt="mac254" />
 
-- 🌱 I'm currently learning **Advanced React patterns, state management, and frontend performance optimization**
+</div>
 
-- 👯 I'm looking to collaborate on **UI-heavy web applications and open source frontend projects**
+---
 
-- 🤝 I'm looking for help with **accessibility auditing and advanced animation systems**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [mac254.dev](https://mac254.dev)
+### About Me
 
-- 💬 Ask me about **React, Tailwind CSS, TypeScript, responsive design, component architecture, and REST API integration**
+</div>
 
-- 📫 How to reach me **mburustephen167@gmail.com**
+I build interfaces that are fast, consistent, and usable across devices. My focus is on component architecture, design-to-code accuracy, and building UI systems that hold up at scale. Based in Kenya — open to remote roles and collaborations.
 
+- 🔭 Currently working on **e-Commerce platforms, dashboard systems, and component UI libraries**
+- 🌱 Currently learning **Advanced React patterns, state management, and frontend performance optimization**
+- 👯 Looking to collaborate on **UI-heavy web applications and open source frontend projects**
+- 💬 Ask me about **React, Tailwind CSS, TypeScript, responsive design, component architecture, REST API integration**
+- 📫 Reach me at **mburustephen167@gmail.com**
 - ⚡ Fun fact **I refactor code until it reads like plain English**
 
 ---
 
-## 🚀 Featured Projects
+<div align="center">
 
-### 🌍 KenyaTech Innovations — Component-Based Web Platform
+### 🚀 Featured Projects
+
+</div>
+
+**🌍 KenyaTech Innovations — Component-Based Web Platform**
 
 | | |
 |---|---|
@@ -38,7 +57,7 @@
 
 ---
 
-### 🛒 Mama Soko App — Multi-Role E-Commerce Platform
+**🛒 Mama Soko App — Multi-Role E-Commerce Platform**
 
 | | |
 |---|---|
@@ -49,7 +68,7 @@
 
 ---
 
-### 📊 Task Tracker Dashboard — Productivity System
+**📊 Task Tracker Dashboard — Productivity System**
 
 | | |
 |---|---|
@@ -60,7 +79,7 @@
 
 ---
 
-### 📱 QuickSplit — Android Expense Splitter
+**📱 QuickSplit — Android Expense Splitter**
 
 | | |
 |---|---|
@@ -71,56 +90,78 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/stephen-mburu-5330a5222/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stephen mburu" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
-<a href="https://svelte.dev" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/></a>
-<a href="https://angular.io" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mac254&show_icons=true&locale=en&layout=compact&include_all_commits=true&count_private=true" alt="mac254" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mac254&show_icons=true&locale=en" alt="mac254" /></p>
-
-![](https://nirzak-streak-stats.vercel.app/?user=mac254&theme=white&hide_border=false&show_icons=true&locale=en)<br/>
-
-### CONTRIBUTION SUMMARY
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mac254&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mac254&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mac254&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mac254&theme=aura_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mac254&theme=aura_dark&utcOffset=3)
-
 <div align="center">
+
+### 🛠️ Languages and Tools
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/>
+<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=mac254&show_icons=true&locale=en&hide_border=true" alt="mac254" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mac254&show_icons=true&locale=en&layout=compact&hide_border=true&include_all_commits=true&count_private=true" alt="mac254" />
+
+![](https://nirzak-streak-stats.vercel.app/?user=mac254&theme=white&hide_border=true)
+
+---
+
+### 📈 Contribution Summary
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mac254&theme=aura_dark)
+
+<p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mac254&theme=aura_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mac254&theme=aura_dark" />
+</p>
+
+<p>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mac254&theme=aura_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mac254&theme=aura_dark&utcOffset=3" />
+</p>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mac254&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
 
-</div>
+---
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+---
+
+### 🏆 Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=mac254&theme=onedark&no-frame=true&row=1)
+
+---
+
+### 🔝 Top Contributed Repos
+
 ![](https://github-contributor-stats.vercel.app/api?username=mac254&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
 [![](https://visitcount.itsvg.in/api?id=mac254&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
