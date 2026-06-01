@@ -15,7 +15,7 @@
 </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mac254&label=Profile%20views&color=0e75b6&style=flat" alt="mac254" />
+<img src="https://komarev.com/ghpvc/?username=Mac254&label=Profile%20views&color=0e75b6&style=flat" alt="Mac254" />
 
 </div>
 
@@ -148,29 +148,29 @@ I build interfaces that are fast, consistent, and usable across devices. My focu
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=mac254&show_icons=true&locale=en&hide_border=true" alt="mac254" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mac254&show_icons=true&locale=en&hide_border=true" alt="Mac254" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mac254&show_icons=true&locale=en&layout=compact&hide_border=true&include_all_commits=true&count_private=true" alt="mac254" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mac254&show_icons=true&locale=en&layout=compact&hide_border=true&include_all_commits=true&count_private=true" alt="Mac254" />
 
-![](https://nirzak-streak-stats.vercel.app/?user=mac254&theme=white&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Mac254&theme=white&hide_border=true)
 
 ---
 
 ### 📈 Contribution Summary
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mac254&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mac254&theme=aura_dark)
 
 <p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mac254&theme=aura_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mac254&theme=aura_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mac254&theme=aura_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mac254&theme=aura_dark" />
 </p>
 
 <p>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mac254&theme=aura_dark" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mac254&theme=aura_dark&utcOffset=3" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mac254&theme=aura_dark" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mac254&theme=aura_dark&utcOffset=3" />
 </p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mac254&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mac254&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
 
 ---
 
@@ -182,16 +182,16 @@ I build interfaces that are fast, consistent, and usable across devices. My focu
 
 ### 🏆 Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mac254&theme=onedark&no-frame=true&row=1)
+![](https://github-profile-trophy.vercel.app/?username=Mac254&theme=onedark&no-frame=true&row=1)
 
 ---
 
 ### 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=mac254&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Mac254&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mac254&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Mac254&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
