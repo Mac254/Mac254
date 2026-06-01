@@ -186,9 +186,34 @@ I build interfaces that are fast, consistent, and usable across devices. My focu
 
 ---
 
-### 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=Mac254&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🔝 Top Repos
+
+<p>
+<a href="https://github.com/Mac254/Primeauto">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=Primeauto&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Mac254/BookAI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=BookAI&hide_border=true&theme=tokyonight" />
+</a>
+</p>
+<p>
+<a href="https://github.com/Mac254/Mamasoko-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=Mamasoko-&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Mac254/improved-KenyaTech-implimentation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=improved-KenyaTech-implimentation&hide_border=true&theme=tokyonight" />
+</a>
+</p>
+<p>
+<a href="https://github.com/Mac254/chat-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=chat-app&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/Mac254/Task-Management-App">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=Task-Management-App&hide_border=true&theme=tokyonight" />
+</a>
+</p>
 
 ---
 
