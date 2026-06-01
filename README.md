@@ -182,7 +182,7 @@ I build interfaces that are fast, consistent, and usable across devices. My focu
 
 ### 🏆 Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Mac254&theme=onedark&no-frame=true&row=1)
+![](https://github-trophies.vercel.app/?username=Mac254&theme=onedark&no-frame=true&row=1)
 
 ---
 
