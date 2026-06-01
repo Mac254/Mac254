@@ -190,28 +190,30 @@ I build interfaces that are fast, consistent, and usable across devices. My focu
 
 ### 🔝 Top Repos
 
-<p>
+<p align="center">
 <a href="https://github.com/Mac254/Primeauto">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=Primeauto&hide_border=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=Primeauto&hide_border=true&theme=aura_dark&show_owner=false" />
 </a>
 <a href="https://github.com/Mac254/BookAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=BookAI&hide_border=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=BookAI&hide_border=true&theme=aura_dark&show_owner=false" />
 </a>
 </p>
-<p>
+<br>
+<p align="center">
 <a href="https://github.com/Mac254/Mamasoko-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=Mamasoko-&hide_border=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=Mamasoko-&hide_border=true&theme=aura_dark&show_owner=false" />
 </a>
 <a href="https://github.com/Mac254/improved-KenyaTech-implimentation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=improved-KenyaTech-implimentation&hide_border=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254/&repo=improved-KenyaTech-implimentation&hide_border=true&theme=aura_dark&show_owner=false" />
 </a>
 </p>
-<p>
+<br>
+<p align="center">
 <a href="https://github.com/Mac254/chat-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=chat-app&hide_border=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=chat-app&hide_border=true&theme=aura_dark&show_owner=false" />
 </a>
 <a href="https://github.com/Mac254/Task-Management-App">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=Task-Management-App&hide_border=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mac254&repo=Task-Management-App&hide_border=true&theme=aura_dark&show_owner=false" />
 </a>
 </p>
 
