@@ -11,7 +11,7 @@
 
 ### Stephen Mburu
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;UI+Systems+%26+Design+Systems;Component+Architecture;Building+Interfaces+That+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Interfaces+That+Tell+A+Story;Frontend+Engineer+%7C+UI+Systems;Motion%2C+Emotion%2C+Performance;Building+Interfaces+That+Scale)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-mburustephen167%40gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen%20Mburu-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-mburu-5330a5222/)
@@ -23,7 +23,7 @@
 
 ## About
 
-I design and build component systems — not just pages. My work spans React, Vue, Angular and Svelte ecosystems, with state layers built on Redux and Zustand, motion built with GSAP and Lenis, and a backend side (Node.js, Express, Redis) that lets me own a feature end-to-end rather than stopping at the API boundary. Some of this work has been in finance systems, where data accuracy and interaction reliability aren't optional.
+I care about interfaces that tell a story and evoke emotion, not just ones that function correctly — the best UX makes someone feel something on the way to getting something done. I design and build component systems to deliver that consistently, not just for one screen. My work spans React, Vue, Angular and Svelte ecosystems, with state layers built on Redux and Zustand, motion built with GSAP and Lenis, and a backend side (Node.js, Bun, Express, Redis) that lets me own a feature end-to-end rather than stopping at the API boundary. Some of this work has been in finance systems, where data accuracy and interaction reliability aren't optional.
 
 ```txt
 const stephen = {
@@ -31,7 +31,7 @@ const stephen = {
   focus: ["Component Architecture", "Design Systems", "Performance"],
   frameworks: ["React", "Vue", "Angular", "Svelte", "Lit"],
   stateAndMotion: ["Redux", "Zustand", "GSAP", "Lenis"],
-  backend: ["Node.js", "Express", "Redis"],
+  backend: ["Node.js", "Bun", "Express", "Redis"],
   domains: ["Finance systems", "Automotive platforms", "AI web apps"],
   openTo: "UI-heavy web apps & open-source frontend collaboration",
 };
@@ -44,6 +44,7 @@ const stephen = {
 | Area | Detail |
 |---|---|
 | **Component Architecture** | Design-token-driven systems; primitives built once, composed across features rather than duplicated per screen |
+| **Narrative UX** | Motion, pacing, and micro-interaction used deliberately — interfaces that feel considered, not just functional |
 | **Cross-Framework UI** | Web Components (Lit) as a shared base layer, consumed natively by React, Vue, Angular and Svelte |
 | **State Management** | Redux for predictable large-app state, Zustand where a lighter store fits the problem better |
 | **Motion & Interaction** | GSAP for complex timeline-driven animation, Lenis for smooth-scroll and scroll-linked effects |
@@ -86,6 +87,7 @@ const stephen = {
 **Backend & Tooling**
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
