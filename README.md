@@ -23,14 +23,16 @@
 
 ## About
 
-I design and build component systems — not just pages. My work centers on translating design specs into typed, accessible, reusable primitives that hold up across a codebase as it scales, and on wrapping the same UI logic so it works in more than one framework instead of being rebuilt per stack.
+I design and build component systems — not just pages. My work spans React, Vue, Angular and Svelte ecosystems, with state layers built on Redux and Zustand, motion built with GSAP and Lenis, and a backend side (Node.js, Express, Redis) that lets me own a feature end-to-end rather than stopping at the API boundary. Some of this work has been in finance systems, where data accuracy and interaction reliability aren't optional.
 
 ```txt
 const stephen = {
   role: "Frontend Engineer",
   focus: ["Component Architecture", "Design Systems", "Performance"],
-  currentlyBuilding: ["Automotive platforms", "AI web apps", "Multi-framework UI systems"],
-  learning: ["SvelteKit", "Advanced TypeScript patterns", "Frontend performance"],
+  frameworks: ["React", "Vue", "Angular", "Svelte", "Lit"],
+  stateAndMotion: ["Redux", "Zustand", "GSAP", "Lenis"],
+  backend: ["Node.js", "Express", "Redis"],
+  domains: ["Finance systems", "Automotive platforms", "AI web apps"],
   openTo: "UI-heavy web apps & open-source frontend collaboration",
 };
 ```
@@ -43,27 +45,50 @@ const stephen = {
 |---|---|
 | **Component Architecture** | Design-token-driven systems; primitives built once, composed across features rather than duplicated per screen |
 | **Cross-Framework UI** | Web Components (Lit) as a shared base layer, consumed natively by React, Vue, Angular and Svelte |
-| **Design-to-Code** | Design specs → production markup with pixel-accurate spacing, type scale, and state coverage (hover/focus/disabled/error) |
+| **State Management** | Redux for predictable large-app state, Zustand where a lighter store fits the problem better |
+| **Motion & Interaction** | GSAP for complex timeline-driven animation, Lenis for smooth-scroll and scroll-linked effects |
+| **Full-Stack Capability** | Node.js/Express APIs backed by Redis — frontend engineers who can also own the service layer |
 | **Accessibility** | Semantic HTML, keyboard navigation, and ARIA patterns built at the component level, not patched on after |
-| **Performance** | Bundle-size discipline, code-splitting, and render-path awareness in Vite/React/Svelte builds |
+| **Performance** | Bundle-size discipline, code-splitting, and render-path awareness across React, Vue, and Svelte builds |
 
 <br>
 
 ## Tech Stack
 
+**Frameworks & Meta-frameworks**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white" />
 </p>
+
+**Languages & Styling**
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+**State & Animation**
+<p>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lenis-000000?style=for-the-badge" />
+</p>
+
+**Backend & Tooling**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
 <br>
@@ -100,7 +125,7 @@ Reading assistant wiring an AI backend into a vanilla JS frontend — no framewo
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🎨 DarkMatter UI
 **Component Library**
@@ -111,9 +136,6 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
 
 [Source](https://github.com/Mac254/DarkMatter-UI)
 <!-- Add docs link once published -->
-
-</td>
-<td width="50%" valign="top">
 
 </td>
 </tr>
