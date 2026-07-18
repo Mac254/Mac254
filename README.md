@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/profile-photo.png" alt="Stephen Mburu — Frontend Engineer" width="100%" />
+<img src="assets/hero.png" alt="Stephen Mburu — Frontend Engineer" width="100%" />
 <!-- Save the branded photo as assets/hero.png in this repo — self-hosted, won't go down like external banner services do -->
 
 <details>
