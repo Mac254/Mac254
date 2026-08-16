@@ -9,6 +9,10 @@
 ╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝     ╚═╝
 ```
 
+<p align="center">
+  <img src="avatar.svg" width="110" alt="Stephen Mburu" />
+</p>
+
 ### Stephen Mburu
 
 **Frontend Engineer · UI Systems · Motion**
@@ -40,6 +44,14 @@ const stephen = {
   openTo: "UI-heavy web apps & open-source frontend collaboration",
 };
 ```
+
+---
+
+## Currently
+
+**Building** DarkMatter UI — a framework-agnostic Web Components library: design tokens via CSS variables, Storybook coverage for every state, accessibility built in, not patched on.
+
+**Open to** UI-heavy web apps and open-source frontend collaboration.
 
 ---
 
@@ -169,11 +181,28 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Mac254&hide_border=true&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mac254&theme=tokyonight&hide_border=true&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mac254&theme=default&hide_border=true&show_icons=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mac254&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mac254&theme=default&hide_border=true&layout=compact&langs_count=6" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mac254&theme=tokyo-night&hide_border=true" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com/?user=Mac254&hide_border=true&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.demolab.com/?user=Mac254&hide_border=true&theme=default" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Mac254&theme=tokyo-night&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mac254&theme=github-light&hide_border=true" width="100%" />
+  </picture>
 </p>
 
 ---
