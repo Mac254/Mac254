@@ -10,7 +10,7 @@
 ```
 
 <p align="center">
-  <img src="avatar.svg" width="110" alt="Stephen Mburu" />
+  <img src="avatar.png" width="110" alt="Stephen Mburu" />
 </p>
 
 ### Stephen Mburu
