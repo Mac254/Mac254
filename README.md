@@ -1,17 +1,19 @@
 <div align="center">
 
 ```
-███╗   ███╗  █████╗  ██████╗ ██████╗  ██████╗ ██╗  ██╗
-████╗ ████║ ██╔══██╗██╔════╝ ╚════██╗██╔════╝ ██║  ██║
-██╔████╔██║ ███████║██║      █████╔╝██║  ███╗███████║
-██║╚██╔╝██║ ██╔══██║██║     ██╔═══╝ ██║   ██║╚════██║
-██║ ╚═╝ ██║ ██║  ██║╚██████╗███████╗╚██████╔╝     ██║
-╚═╝     ╚═╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝ ╚═════╝      ╚═╝
+███╗   ███╗ █████╗  ██████╗██████╗ ███████╗██╗  ██╗
+████╗ ████║██╔══██╗██╔════╝╚════██╗██╔════╝██║  ██║
+██╔████╔██║███████║██║      █████╔╝███████╗███████║
+██║╚██╔╝██║██╔══██║██║     ██╔═══╝ ╚════██║╚════██║
+██║ ╚═╝ ██║██║  ██║╚██████╗███████╗███████║     ██║
+╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝╚══════╝     ╚═╝
 ```
 
 ### Stephen Mburu
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Interfaces+That+Tell+A+Story;Frontend+Engineer+%7C+UI+Systems;Motion%2C+Emotion%2C+Performance;Building+Interfaces+That+Scale)](https://git.io/typing-svg)
+**Frontend Engineer · UI Systems · Motion**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1400&typeSpeed=60&deleteSpeed=35&color=6C63FF&center=true&vCenter=true&width=620&lines=Interfaces+That+Tell+A+Story;Frontend+Engineer+%C2%B7+UI+Systems;Motion%2C+Emotion%2C+Performance;Building+Interfaces+That+Scale)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-mburustephen167%40gmail.com-6C63FF?style=flat-square&logo=gmail&logoColor=white)](mailto:mburustephen167@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen%20Mburu-6C63FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-mburu-5330a5222/)
@@ -19,11 +21,13 @@
 
 </div>
 
-<br>
+---
 
 ## About
 
-I care about interfaces that tell a story and evoke emotion, not just ones that function correctly — the best UX makes someone feel something on the way to getting something done. I design and build component systems to deliver that consistently, not just for one screen. My work spans React, Vue, Angular and Svelte ecosystems, with state layers built on Redux and Zustand, motion built with GSAP and Lenis, and a backend side (Node.js, Bun, Express, Redis) that lets me own a feature end-to-end rather than stopping at the API boundary. Some of this work has been in finance systems, where data accuracy and interaction reliability aren't optional.
+Interfaces that tell a story and evoke emotion — not just ones that function. The best UX makes someone feel something on the way to getting something done, so I design and build component systems to deliver that consistently, not screen by screen.
+
+React, Vue, Angular and Svelte ecosystems; state on Redux and Zustand; motion with GSAP and Lenis; and a backend layer (Node.js, Bun, Express, Redis) that lets me own a feature end-to-end instead of stopping at the API boundary. Much of this work has been in finance systems, where data accuracy and interaction reliability aren't optional.
 
 ```txt
 const stephen = {
@@ -37,7 +41,7 @@ const stephen = {
 };
 ```
 
-<br>
+---
 
 ## Core Expertise
 
@@ -52,48 +56,44 @@ const stephen = {
 | **Accessibility** | Semantic HTML, keyboard navigation, and ARIA patterns built at the component level, not patched on after |
 | **Performance** | Bundle-size discipline, code-splitting, and render-path awareness across React, Vue, and Svelte builds |
 
-<br>
+---
 
 ## Tech Stack
 
-**Frameworks & Meta-frameworks**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lit-324FFF?style=for-the-badge&logo=lit&logoColor=white" />
-</p>
+**Frameworks**
+
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://react.dev)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)](https://svelte.dev)
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://vuejs.org)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.dev)
+[![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)](https://nuxt.com)
+[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
+[![Lit](https://img.shields.io/badge/Lit-324FFF?style=flat-square&logo=lit&logoColor=white)](https://lit.dev)
 
 **Languages & Styling**
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-</p>
 
-**State & Animation**
-<p>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lenis-000000?style=for-the-badge" />
-</p>
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+**State & Motion**
+
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org)
+[![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)](https://zustand.docs.pmnd.rs)
+[![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)](https://gsap.com)
+[![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat-square&logo=lenis&logoColor=white)](https://lenis.darkroom.engineering)
 
 **Backend & Tooling**
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
 
-<br>
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+[![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)](https://bun.sh)
+[![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vite.dev)
+
+---
 
 ## Featured Work
 
@@ -101,49 +101,49 @@ const stephen = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 PrimeAuto
+### PrimeAuto
+
 **Automotive Platform**
 
 Svelte-based frontend built around reactive stores instead of prop-drilling, with Vite for fast HMR during vehicle-listing filter iteration. Layout is grid-driven and breakpoint-tested for the dense data views automotive listings need.
 
 `Svelte` `CSS` `JavaScript` `Vite`
 
-[Source](https://github.com/Mac254/Primeauto)
-<!-- Add live demo link once deployed -->
+[**Source**](https://github.com/Mac254/Primeauto)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 BookAI
+### BookAI
+
 **AI Web Application**
 
 Reading assistant wiring an AI backend into a vanilla JS frontend — no framework overhead, direct DOM state management, and async UI states (loading/error/streaming) handled explicitly rather than left implicit.
 
 `HTML` `CSS` `JavaScript` `AI Integration`
 
-[Source](https://github.com/Mac254/BookAI)
-<!-- Add live demo link once deployed -->
+[**Source**](https://github.com/Mac254/BookAI)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🎨 DarkMatter UI
+### DarkMatter UI
+
 **Component Library**
 
 Framework-agnostic primitives authored once in Lit (Web Components) and consumed natively across React, Vue, Angular and Svelte — no per-framework reimplementation. Design tokens drive theming via CSS variables; Storybook covers every state per component.
 
 `Web Components` `TypeScript` `Storybook` `CSS Variables`
 
-[Source](https://github.com/Mac254/DarkMatter-UI)
-<!-- Add docs link once published -->
+[**Source**](https://github.com/Mac254/DarkMatter-UI)
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
 ## GitHub Stats
 
@@ -155,7 +155,7 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mac254&theme=tokyo-night&hide_border=true" width="100%" />
 </p>
 
-<br>
+---
 
 <div align="center">
 
