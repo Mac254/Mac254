@@ -58,6 +58,18 @@ const stephen = {
 
 ---
 
+## By the Numbers
+
+<div align="center">
+
+| 4 | 3 | 1 | 100% | AA |
+| :---: | :---: | :---: | :---: | :---: |
+| Frameworks shipped | Domains delivered | Design system built | Storybook state coverage | WCAG accessibility target |
+
+</div>
+
+---
+
 ## Tech Stack
 
 **Frameworks**
@@ -84,6 +96,15 @@ const stephen = {
 [![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white)](https://zustand.docs.pmnd.rs)
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)](https://gsap.com)
 [![Lenis](https://img.shields.io/badge/Lenis-000000?style=flat-square&logo=lenis&logoColor=white)](https://lenis.darkroom.engineering)
+
+**Design & Quality**
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com)
+[![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org)
+[![Chromatic](https://img.shields.io/badge/Chromatic-FC521F?style=flat-square&logo=chromatic&logoColor=white)](https://www.chromatic.com)
+[![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev)
+[![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white)](https://developer.chrome.com/docs/lighthouse)
+[![WCAG 2.2 AA](https://img.shields.io/badge/WCAG_2.2-AA-005A9C?style=flat-square)](https://www.w3.org/WAI/WCAG22/)
 
 **Backend & Tooling**
 
