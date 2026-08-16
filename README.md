@@ -182,8 +182,8 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Mac254&theme=tokyonight&hide_border=true&show_icons=true" />
-    <img src="https://github-readme-stats.shion.dev/api?username=Mac254&theme=default&hide_border=true&show_icons=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api?username=Mac254&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.shion.dev/api?username=Mac254&theme=default&hide_border=true&show_icons=true&include_all_commits=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Mac254&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
