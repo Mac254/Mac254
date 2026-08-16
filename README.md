@@ -193,8 +193,8 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com/?user=Mac254&hide_border=true&theme=tokyonight" />
-    <img src="https://github-readme-streak-stats.demolab.com/?user=Mac254&hide_border=true&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Mac254&hide_border=true&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mac254&hide_border=true&theme=default" />
   </picture>
 </p>
 
