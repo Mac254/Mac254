@@ -170,7 +170,7 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
 
 `Web Components` `TypeScript` `Storybook` `CSS Variables`
 
-[**Source**](https://github.com/Mac254/DarkMatter-UI)
+[**Source**](https://github.com/Mac254/dark-matter)
 
 </td>
 </tr>
@@ -186,8 +186,8 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
     <img src="https://github-readme-stats.shion.dev/api?username=Mac254&theme=default&hide_border=true&show_icons=true&include_all_commits=true" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Mac254&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mac254&theme=default&hide_border=true&layout=compact&langs_count=6" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.shion.dev/api/top-langs/?username=Mac254&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&exclude_repo=Kenyatech,improved-KenyaTech-implimentation,Technova-&hide=php,shell" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mac254&theme=default&hide_border=true&layout=compact&langs_count=6&exclude_repo=Kenyatech,improved-KenyaTech-implimentation,Technova-&hide=php,shell" />
   </picture>
 </p>
 
@@ -204,6 +204,64 @@ Framework-agnostic primitives authored once in Lit (Web Components) and consumed
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mac254&theme=github-light&hide_border=true" width="100%" />
   </picture>
 </p>
+
+---
+
+## Contribution Summary
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mac254&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mac254&theme=github" width="100%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mac254&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mac254&theme=github" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mac254&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mac254&theme=github" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mac254&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mac254&theme=github" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mac254&theme=github_dark&utcOffset=3" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mac254&theme=github&utcOffset=3" />
+  </picture>
+</p>
+
+---
+
+## Trophies
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=Mac254&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+    <img src="https://github-trophies.vercel.app/?username=Mac254&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+  </picture>
+</p>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random dev quote" />
+</picture>
+
+[![Profile views](https://komarev.com/ghpvc/?username=Mac254&label=Profile%20views&color=6C63FF&style=flat-square)](https://github.com/Mac254)
+
+</div>
+
 
 ---
 
